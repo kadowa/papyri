@@ -6,7 +6,7 @@
 #########################################################################
 
 if False:
-    from gluon import I, URL
+    from gluon import I, URL, IMG
     import response, request
 
 response.logo = ''
@@ -21,6 +21,7 @@ response.google_analytics_id = None
 #########################################################################
 
 response.menu = [
+          #(IMG(_src=URL('static', 'images/papyrus_head.jpg')), False, URL('default','index')),
           ('Start', False, URL(c="default", f="index.html")),
           (I(_class="icon list icon-list glyphicon glyphicon-list")+" "+T('Table'), False, URL(c="default", f="table")),
 ]
