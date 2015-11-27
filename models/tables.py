@@ -5,7 +5,7 @@ if False:
 
 from _dbus_bindings import String
 
-db.define_table("papyri_new",
+db.define_table("papyri",
     Field("abbildung", type="text", label="Abbildung"),
     Field("alte_aufnahme", type="text", label="alte Aufnahme"),
     Field("alte_inv_nr_buchstabe", type="text", label="alte Inv. Nr. Buchstabe"),
@@ -57,10 +57,10 @@ db.define_table("papyri_new",
     Field("literatur", type="text", label="Literatur"),
     Field("m1", type="integer", label="M"),
     Field("m2", type="integer", label="M2"),
-    Field("m2hig", type="integer", label="M2Hig"),
+    Field("m2hig", type="string", label="M2Hig"),
     Field("material", type="text", label="Material"),
     Field("mehrfach", type="text", label="Mehrfach"),
-    Field("m1hig", type="integer", label="MHig"),
+    Field("m1hig", type="string", label="MHig"),
     Field("negativ", type="text", label="Negativ"),
     Field("neu", type="boolean", label="Neu?"),
     Field("notiz", type="text", label="Notiz"),
