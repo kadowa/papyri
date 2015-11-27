@@ -36,9 +36,11 @@ while l:
 				else:
 					e = "F"
 			if ttype == "list:string":
-				l = [l.strip() for l in e.split(u'\x1d')]
+				l = [i.strip() for i in e.split(u'\x1d') if i]
 				if l:
-					e = "; ".join(l)
+					e = "|"+"|".join(l)+"|"
+				else:
+					e = "||"
 			if ttype == "date" and e != "":
 				try:
 					d, m, y = e.split('.')
