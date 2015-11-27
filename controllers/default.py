@@ -25,7 +25,8 @@ def index():
     return locals()
 
 def table():
-    grid = SQLFORM.grid(db.papyri_new, 
-        user_signature=False)
+    grid = SQLFORM.grid(db.papyri,
+#                        fields=[db.papyri.breite],
+                        user_signature=False)
 
     return locals()
