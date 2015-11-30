@@ -94,7 +94,7 @@ KEEP	text
 KEEP	text
 KEEP	text
 DELETE	DELETE
-INSERT	text
+KEEP	text
 INSERT	text
 KEEP	integer
 KEEP	integer

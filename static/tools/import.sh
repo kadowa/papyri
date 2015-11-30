@@ -1,3 +1,13 @@
-cat ../import/gr.tab.orig | tr "\n" " " | tr "\r" "\n" > ../import/gr.tab
-cat ../import/gr.tab | ./tab2csv.py ../import/gr.tf > ../import/papyri_new.csv
-mysqlimport --local --verbose --fields-enclosed-by='"' --fields-terminated-by=',' --lines-terminated-by='\n' --user=root --password papyri ../import/papyri_new.csv
+ROOT=/workspace/web2py/applications/papyri/static/
+IMPORT=$ROOT/import
+TOOLS=$ROOT/tools
+
+for LANG in aram hier lat pah syr;
+	do cat $IMPORT/$LANG.tsv.orig | tr "\n" " " | tr "\r" "\n" | $TOOLS/fix.py > $IMPORT/$LANG.tsv;
+		cat $IMPORT/$LANG.tsv | $TOOLS/tab2csv.py $IMPORT/$LANG.tf > $IMPORT/$LANG.csv;
+	done
+
+for LANG in arab gr;
+	do cat $IMPORT/$LANG.tsv.orig | tr "\n" " " | tr "\r" "\n" > $IMPORT/$LANG.tsv;
+		cat $IMPORT/$LANG.tsv | $TOOLS/tab2csv.py $IMPORT/$LANG.tf > $IMPORT/$LANG.csv;
+	done
