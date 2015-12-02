@@ -1,7 +1,7 @@
 #!/usr/bin/python
 # -*- coding: utf8 -*-
 
-import sys, datetime, codecs
+import sys, codecs, getopt
 
 with open(sys.argv[1]) as f:
 	transformations = [line.strip().split('\t') for line in f.readlines()]
@@ -9,6 +9,23 @@ with open(sys.argv[1]) as f:
 # Get encoding right (hopefully, still need to think about this)
 stdin = sys.stdin
 stdout = codecs.getwriter("utf8")(sys.stdout)
+
+options, rest = getopt.getopt(sys.argv[2:], "l:i:", ["language=", "index="])
+
+lang = None
+insert = None
+for opt, arg in options:
+	if opt in ("-l", "--language"):
+		lang = arg.decode("utf-8")
+	elif opt in ("-i", "--index"):
+		insert = int(arg)
+	else:
+		sys.stderr.write("Unknown option %s"%opt)
+		exit(1)
+		
+if lang and not insert:
+	sys.stderr.write("Specify an index where the language should be inserted %s\n"%lang)
+	exit(1)
 
 # Loop through input rows
 counter = 0
@@ -46,7 +63,7 @@ while l:
 					d, m, y = e.split('.')
 					e = '{:04d}-{:02d}-{:02d}'.format(int(y), int(m), int(d))
 				except:
-					sys.stderr.write("Unabel to convert date: %s\n"%e)
+					sys.stderr.write("Unable to convert date: %s\n"%e)
 			if ttype == "integer" and e != "":
 				# Some BC entries have a blank between "-" and year
 				e = e.replace(" ", "")
@@ -62,6 +79,9 @@ while l:
 			pass
 		else:
 			sys.stderr.write("ERROR: Invalid transform operation %s\n"%t)
+	
+	if lang:
+		entries_transformed[insert] = lang
 
 	# Generate CSV output
 	l = stdin.readline()
