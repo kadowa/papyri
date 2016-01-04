@@ -1,0 +1,118 @@
+DELETE	DELETE	
+Abbildung	string	512
+alte Aufnahme	string	512
+alte Inv. Nr. Buchstabe	string	64
+alte Inv. Nr. Name	string	64
+alte Inv. Nr. Zahl	string	256
+Andere Berichtigungen	string	512
+Andere Publikation	string	
+andere Seite	string	128
+Art	string	128
+Art 1	string	64
+Art 2	string	256
+DELETE	DELETE	
+Band	integer	8
+bearb.?	boolean	4
+bearb_zusatz	string	
+Bearbeiter	string	512
+Bemerkungen	text	
+Bild importiert?	boolean	4
+BL	string	256
+Breite	list:string	
+DELETE	DELETE	
+DELETE	DELETE	
+DELETE	DELETE	
+DELETE	DELETE	
+DELETE	DELETE	
+DELETE	DELETE	
+DELETE	DELETE	
+DELETE	DELETE	
+Eigenart	string	
+eingegeben am	date	32
+Erg	string	64
+Erg2	string	32
+Erg2Hig	string	
+ErgHig	string	
+Erhaltungszustand	text	
+Erw.Bem.	string	256
+Erwähnte Daten	string	
+erworben durch: Jahr	string	32
+erworben durch: Monat	string	32
+erworben durch: Name	string	256
+fertig	boolean	4
+Fundort	string	64
+gerahmte Nummer	string	16
+Herkunft	string	256
+Hoehe	list:string	
+Inhalt	text	
+J	integer	16
+J2	integer	16
+J2Hig	integer	16
+Jh	integer	8
+Jh2	integer	8
+Jh2Hig	integer	8
+DELETE	DELETE	
+DELETE	DELETE	
+DELETE	DELETE	
+JhHig	integer	8
+JHig	integer	16
+JPEG (150 dpi)	string	
+JPEG (72 dpi)	string	
+Katalogisierung	string	64
+LDAB	integer	16
+Link Abb.	string	
+Literatur	text	
+M	integer	8
+M2	integer	8
+M2Hig	string	64
+Material	string	64
+Mehrfach	string	
+MHig	string	64
+DELETE	DELETE	
+DELETE	DELETE	
+Negativ	string	
+Neu?	boolean	4
+Notiz	string	128
+Nummer	string	32
+O.Heid. Inv.	string	32
+Originaltitel	text	
+Ort	string	128
+P_Heid_Inv_Erg	string	
+DELETE	DELETE	
+P_Heid_Inv_Nr	integer	16
+P.Heid. Inv.	string	64
+P.Heid. Inv. Buchstabe	string	128
+Pack2	integer	16
+Paläographisches	text	
+Photo an	text	
+Pub sonst	string	
+Publ_Erg	string	64
+Publikation	string	
+DELETE	DELETE	
+Rückseite	string	64
+RV	string	128
+Schrift	string	64
+Seite	string	32
+DELETE	DELETE	
+Sprache	string	128
+Status	string	128
+T	integer	8
+T2	integer	8
+T2Hig	string	
+THig	string	64
+TIFF (600 dpi)	string	
+Titel	string	
+DELETE	DELETE	
+DELETE	DELETE	
+DELETE	DELETE	
+unsicher:	string	64
+URL Abb.	string	512
+DELETE	DELETE	
+DELETE	DELETE	
+Vorhanden	boolean	32
+Vorhanden/Fehlt	string	
+Wochentag	string	32
+zuletzt geändert am	date	32
+Zus_Band	string	
+Zusatz:	string	
+zusätzlich	string	
