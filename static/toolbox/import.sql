@@ -1,4 +1,5 @@
 USE papyri;
+TRUNCATE papyri.papyri;
 LOAD DATA LOCAL INFILE '/workspace/web2py/applications/papyri/static/import/arab.csv' INTO TABLE papyri.papyri CHARACTER SET UTF8 FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n';
 LOAD DATA LOCAL INFILE '/workspace/web2py/applications/papyri/static/import/aram.csv' INTO TABLE papyri.papyri CHARACTER SET UTF8 FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n';
 LOAD DATA LOCAL INFILE '/workspace/web2py/applications/papyri/static/import/cop.csv' INTO TABLE papyri.papyri CHARACTER SET UTF8 FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n';
@@ -10,5 +11,3 @@ LOAD DATA LOCAL INFILE '/workspace/web2py/applications/papyri/static/import/lat.
 LOAD DATA LOCAL INFILE '/workspace/web2py/applications/papyri/static/import/ostr.csv' INTO TABLE papyri.papyri CHARACTER SET UTF8 FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n';
 LOAD DATA LOCAL INFILE '/workspace/web2py/applications/papyri/static/import/pah.csv' INTO TABLE papyri.papyri CHARACTER SET UTF8 FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n';
 LOAD DATA LOCAL INFILE '/workspace/web2py/applications/papyri/static/import/syr.csv' INTO TABLE papyri.papyri CHARACTER SET UTF8 FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n';
-
-
