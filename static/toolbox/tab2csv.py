@@ -48,7 +48,9 @@ while l:
 			e = entries[j].replace("\"", "'").replace(u'\x0b', u'\n')
 			if ttype == "boolean":
 				# TODO: refine (depends on possible entries in the fields)
-				if e != "":
+				if e == "Fehlt":
+					e = "F"
+				elif e != "" or e == "Vorhanden":
 					e = "T"
 				else:
 					e = "F"
