@@ -1,0 +1,120 @@
+name,type,arab,cop,dem,gr,hebr,ostr,syr usw.,to delete,tf_arab,,tf_cop,,tf_dem,,tf_gr,,tf_hebr,,tf_ostr,,"tf_syr,pah,lat,hier,aram",,label,type,length,length,original length,
+a,,a,a,a,a,a,a,a,x,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,,,,
+Abbildung,string,Abbildung,Abbildung,Abbildung,Abbildung,Abbildung,Abbildung,Abbildung,,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,Abbildung,string,512,512,abbildung,176
+alte Aufnahme,string,alte Aufnahme,alte Aufnahme,alte Aufnahme,alte Aufnahme,alte Aufnahme,alte Aufnahme,alte Aufnahme,,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,alte Aufnahme,string,512,512,alte_aufnahme,99
+alte Inv. Nr. Buchstabe,string,alte Inv. Nr. Buchstabe,alte Inv. Nr. Buchstabe,alte Inv. Nr. Buchstabe,alte Inv. Nr. Buchstabe,alte Inv. Nr. Buchstabe,alte Inv. Nr. Buchstabe,alte Inv. Nr. Buchstabe,,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,alte Inv. Nr. Buchstabe,string,64,64,alte_inv_nr_buchstabe,19
+alte Inv. Nr. Name,string,alte Inv. Nr. Name,alte Inv. Nr. Name,alte Inv. Nr. Name,alte Inv. Nr. Name,alte Inv. Nr. Name,alte Inv. Nr. Name,alte Inv. Nr. Name,,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,alte Inv. Nr. Name,string,64,64,alte_inv_nr_name,18
+alte Inv. Nr. Zahl,string,alte Inv. Nr. Zahl,alte Inv. Nr. Zahl,alte Inv. Nr. Zahl,alte Inv. Nr. Zahl,alte Inv. Nr. Zahl,alte Inv. Nr. Zahl,alte Inv. Nr. Zahl,,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,alte Inv. Nr. Zahl,string,256,256,alte_inv_nr_zahl,58
+Andere Berichtigungen,string,Andere Berichtigungen,Andere Berichtigungen,Andere Berichtigungen,Andere Berichtigungen,,,,,KEEP,string,KEEP,string,KEEP,string,KEEP,string,INSERT,string,INSERT,string,INSERT,string,Andere Berichtigungen,string,512,512,andere_berichtigungen,143
+Andere Publikation,string,Andere Publikation,Andere Publikation,Andere Publikation,Andere Publikation,Andere Publikation,Andere Publikation,Andere Publikation,,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,Andere Publikation,string,,1024,andere_publikation,301
+andere Seite,string,andere Seite,andere Seite,andere Seite,andere Seite,andere Seite,andere Seite,,,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,INSERT,string,andere Seite,string,128,128,andere_seite,28
+Art,string,Art,Art,Art,Art,,,,,KEEP,string,KEEP,string,KEEP,string,KEEP,string,INSERT,string,INSERT,string,INSERT,string,Art,string,128,128,art,32
+Art 1,string,Art 1,Art 1,Art 1,Art 1,Art 1,Art 1,Art 1,,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,Art 1,string,64,64,art_1,16
+Art 2,string,Art 2,Art 2,Art 2,Art 2,Art 2,Art 2,Art 2,,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,Art 2,string,256,256,art_2,81
+b,,b,b,b,b,b,b,b,x,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,,,,
+Band,integer,Band,Band,Band,Band,Band,Band,Band,,KEEP,integer,KEEP,integer,KEEP,integer,KEEP,integer,KEEP,integer,KEEP,integer,KEEP,integer,Band,integer,8,8,band,2
+bearb.?,boolean,bearb.?,bearb.?,bearb.?,bearb.?,bearb.?,bearb.?,bearb.?,,KEEP,boolean,KEEP,boolean,KEEP,boolean,KEEP,boolean,KEEP,boolean,KEEP,boolean,KEEP,boolean,bearb.?,boolean,4,4,bearb,1
+bearb_zusatz,string,,,,,,,,,INSERT,string,INSERT,string,INSERT,string,INSERT,string,INSERT,string,INSERT,string,INSERT,string,bearb_zusatz,string,,,bearb_zusatz,0
+Bearbeiter,string,Bearbeiter,Bearbeiter,Bearbeiter,Bearbeiter,Bearbeiter,,,,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,INSERT,string,INSERT,string,Bearbeiter,string,512,512,bearbeiter,144
+Bemerkungen,string,Bemerkungen,Bemerkungen,Bemerkungen,Bemerkungen,Bemerkungen,Bemerkungen,Bemerkungen,,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,Bemerkungen,text,,4096,bemerkungen,1349
+Bild importiert?,boolean,Bild importiert?,Bild importiert?,Bild importiert?,Bild importiert?,,,,,KEEP,boolean,KEEP,boolean,KEEP,boolean,KEEP,boolean,INSERT,boolean,INSERT,boolean,INSERT,boolean,Bild importiert?,boolean,4,4,bild_importiert,1
+BL,string,BL,BL,BL,BL,,,,,KEEP,string,KEEP,string,KEEP,string,KEEP,string,INSERT,string,INSERT,string,INSERT,string,BL,string,256,256,bl,71
+Breite,list:string,Breite,Breite,Breite,Breite,Breite,Breite,Breite,,KEEP,list:string,KEEP,list:string,KEEP,list:string,KEEP,list:string,KEEP,list:string,KEEP,list:string,KEEP,list:string,Breite,list:string,,1024,breite,196
+c,,c,c,c,c,c,c,c,x,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,,,,
+d,,d,d,d,d,d,d,d,x,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,,,,
+D1,,D1,D1,D1,D1,D1,D1,D1,x,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,,,,
+D2,,D2,D2,D2,D2,D2,D2,D2,x,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,,,,
+D3,,D3,D3,D3,D3,D3,D3,D3,x,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,,,,
+D4,,D4,D4,D4,D4,D4,D4,D4,x,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,,,,
+Datierung,,Datierung,Datierung,Datierung,Datierung,Datierung,Datierung,Datierung,x,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,,,,
+Datierung2,,Datierung2,Datierung2,Datierung2,Datierung2,Datierung2,Datierung2,Datierung2,x,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,,,,
+Eigenart,string,Eigenart,Eigenart,Eigenart,Eigenart,Eigenart,Eigenart,Eigenart,,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,Eigenart,string,,1024,eigenart,346
+eingegeben am,date,eingegeben am,eingegeben am,eingegeben am,eingegeben am,eingegeben am,eingegeben am,eingegeben am,,KEEP,date,KEEP,date,KEEP,date,KEEP,date,KEEP,date,KEEP,date,KEEP,date,eingegeben am,date,32,32,eingegeben_am,10
+Erg,string,Erg,Erg,Erg,Erg,Erg,Erg,Erg,,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,Erg,string,64,64,erg1,12
+Erg2,string,Erg2,Erg2,Erg2,Erg2,Erg2,Erg2,Erg2,,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,Erg2,string,32,32,erg2,7
+Erg2Hig,string,Erg2Hig,,,,,,,,KEEP,string,INSERT,string,INSERT,string,INSERT,string,INSERT,string,INSERT,string,INSERT,string,Erg2Hig,string,,,erg2hig,0
+ErgHig,string,ErgHig,,,,,,,,KEEP,string,INSERT,string,INSERT,string,INSERT,string,INSERT,string,INSERT,string,INSERT,string,ErgHig,string,,,erghig,0
+Erhaltungszustand,string,Erhaltungszustand,,,,,,,,KEEP,string,INSERT,string,INSERT,string,INSERT,string,INSERT,string,INSERT,string,INSERT,string,Erhaltungszustand,text,,8192,erhaltungszustand,1768
+Erw.Bem.,string,Erw.Bem.,Erw.Bem.,Erw.Bem.,Erw.Bem.,Erw.Bem.,Erw.Bem.,Erw.Bem.,,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,Erw.Bem.,string,256,256,erw_bem,46
+Erwähnte Daten,string,Erwähnte Daten,Erwähnte Daten,Erwähnte Daten,Erwähnte Daten,Erwähnte Daten,Erwähnte Daten,Erwähnte Daten,,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,Erwähnte Daten,string,,1024,erwaehnte_daten,318
+erworben durch: Jahr,string,erworben durch: Jahr,erworben durch: Jahr,erworben durch: Jahr,erworben durch: Jahr,erworben durch: Jahr,erworben durch: Jahr,erworben durch: Jahr,,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,erworben durch: Jahr,string,32,32,erworben_durch_jahr,8
+erworben durch: Monat,string,erworben durch: Monat,erworben durch: Monat,erworben durch: Monat,erworben durch: Monat,erworben durch: Monat,erworben durch: Monat,erworben durch: Monat,,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,erworben durch: Monat,string,32,32,erworben_durch_monat,8
+erworben durch: Name,string,erworben durch: Name,erworben durch: Name,erworben durch: Name,erworben durch: Name,erworben durch: Name,erworben durch: Name,erworben durch: Name,,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,erworben durch: Name,string,256,256,erworben_durch_name,83
+fertig,boolean,fertig,,,,,,,,KEEP,boolean,INSERT,boolean,INSERT,boolean,INSERT,boolean,INSERT,boolean,INSERT,boolean,INSERT,boolean,fertig,boolean,4,4,fertig,1
+Fundort,string,Fundort,Fundort,Fundort,Fundort,Fundort,Fundort,Fundort,,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,Fundort,string,64,64,fundort,20
+gerahmte Nummer,string,,,,,,gerahmte Nummer,,,INSERT,string,INSERT,string,INSERT,string,INSERT,string,INSERT,string,KEEP,string,INSERT,string,gerahmte Nummer,string,16,16,gerahmte_nummer,3
+Herkunft,string,Herkunft,Herkunft,Herkunft,Herkunft,Herkunft:,Herkunft:,Herkunft:,,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,Herkunft,string,256,256,herkunft,48
+Hoehe,list:string,Hoehe,Hoehe,Hoehe,Hoehe,Höhe,Höhe,Höhe,,KEEP,list:string,KEEP,list:string,KEEP,list:string,KEEP,list:string,KEEP,list:string,KEEP,list:string,KEEP,list:string,Hoehe,list:string,,1024,hoehe,198
+GR_EXTRA,,,,,GR_EXTRA,,,,x,IGNORE,DELETE,IGNORE,DELETE,IGNORE,DELETE,DELETE,DELETE,IGNORE,DELETE,IGNORE,DELETE,IGNORE,DELETE,,,,,,
+Inhalt,string,Inhalt,Inhalt,Inhalt,Inhalt,Inhalt,Inhalt,Inhalt,,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,Inhalt,text,,32768,inhalt,6821
+J,integer,J,J,J,J,J,J,J,,KEEP,integer,KEEP,integer,KEEP,integer,KEEP,integer,KEEP,integer,KEEP,integer,KEEP,integer,J,integer,16,16,j1,4
+J2,integer,J2,J2,J2,J2,J2,J2,J2,,KEEP,integer,KEEP,integer,KEEP,integer,KEEP,integer,KEEP,integer,KEEP,integer,KEEP,integer,J2,integer,16,16,j2,4
+J2Hig,integer,J2Hig,,,,,,,,KEEP,integer,INSERT,integer,INSERT,integer,INSERT,integer,INSERT,integer,INSERT,integer,INSERT,integer,J2Hig,integer,16,16,j2hig,3
+Jh,integer,Jh,Jh,Jh,Jh,Jh,Jh,Jh,,KEEP,integer,KEEP,integer,KEEP,integer,KEEP,integer,KEEP,integer,KEEP,integer,KEEP,integer,Jh,integer,8,8,jh1,2
+Jh2,integer,Jh2,Jh2,Jh2,Jh2,Jh2,Jh2,Jh2,,KEEP,integer,KEEP,integer,KEEP,integer,KEEP,integer,KEEP,integer,KEEP,integer,KEEP,integer,Jh2,integer,8,8,jh2,2
+Jh2Hig,integer,Jh2Hig,,,,,,,,KEEP,integer,INSERT,integer,INSERT,integer,INSERT,integer,INSERT,integer,INSERT,integer,INSERT,integer,Jh2Hig,integer,8,8,jh2hig,2
+Jhd,,Jhd,Jhd,Jhd,Jhd,Jhd,Jhd,Jhd,x,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,,,,
+Jhd2,,Jhd2,Jhd2,Jhd2,Jhd2,Jhd2,Jhd2,Jhd2,x,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,,,,
+Jhdt,,Jhdt,Jhdt,Jhdt,Jhdt,Jhdt,Jhdt,Jhdt,x,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,,,,
+JhHig,integer,JhHig,,,,,,,,KEEP,integer,INSERT,integer,INSERT,integer,INSERT,integer,INSERT,integer,INSERT,integer,INSERT,integer,JhHig,integer,8,8,jh1hig,2
+JHig,integer,JHig,,,,,,,,KEEP,integer,INSERT,integer,INSERT,integer,INSERT,integer,INSERT,integer,INSERT,integer,INSERT,integer,JHig,integer,16,16,j1hig,4
+JPEG (150 dpi),string,JPEG (150 dpi),JPEG (72 dpi),JPEG (72 dpi),JPEG (72 dpi),,,,,KEEP,string,KEEP,string,KEEP,string,KEEP,string,INSERT,string,INSERT,string,INSERT,string,JPEG (150 dpi),string,,,,
+JPEG (72 dpi),string,JPEG (72 dpi),JPEG (150 dpi),JPEG (150 dpi),JPEG (150 dpi),,,,,KEEP,string,KEEP,string,KEEP,string,KEEP,string,INSERT,string,INSERT,string,INSERT,string,JPEG (72 dpi),string,,,,
+Katalogisierung,string,Katalogisierung,,,,,,,,KEEP,string,INSERT,string,INSERT,string,INSERT,string,INSERT,string,INSERT,string,INSERT,string,Katalogisierung,string,64,64,katalogisierung,19
+LDAB,integer,LDAB,LDAB,LDAB,LDAB,,,,,KEEP,integer,KEEP,integer,KEEP,integer,KEEP,integer,INSERT,integer,INSERT,integer,INSERT,integer,LDAB,integer,16,16,ldab,4
+Link Abb.,string,,Link Abb.,Link Abb.,Link Abb.,,,,,INSERT,string,KEEP,string,KEEP,string,KEEP,string,INSERT,string,INSERT,string,INSERT,string,Link Abb.,string,,1024,link_abb,205
+Literatur,string,Literatur,Literatur,Literatur,Literatur,Literatur,Literatur,Literatur,,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,Literatur,text,,2048,literatur,667
+M,integer,M,M,M,M,M,M,M,,KEEP,integer,KEEP,integer,KEEP,integer,KEEP,integer,KEEP,integer,KEEP,integer,KEEP,integer,M,integer,8,8,m1,2
+M2,integer,M2,M2,M2,M2,M2,M2,M2,,KEEP,integer,KEEP,integer,KEEP,integer,KEEP,integer,KEEP,integer,KEEP,integer,KEEP,integer,M2,integer,8,8,m2,2
+M2Hig,string,M2Hig,,,,,,,,KEEP,string,INSERT,string,INSERT,string,INSERT,string,INSERT,string,INSERT,string,INSERT,string,M2Hig,string,64,64,m2hig,14
+Material,string,Material,Material,Material,Material,Material,Material,Material,,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,Material,string,64,64,material,16
+Mehrfach,string,Mehrfach,Mehrfach,Mehrfach,Mehrfach,Mehrfach,Mehrfach,Mehrfach,,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,Mehrfach,string,,,mehrfach,0
+MHig,string,MHig,,,,,,,,KEEP,string,INSERT,string,INSERT,string,INSERT,string,INSERT,string,INSERT,string,INSERT,string,MHig,string,64,64,m1hig,18
+ML,,ML,ML,ML,ML,ML,ML,ML,x,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,,,,
+ML2,,ML2,ML2,ML2,ML2,ML2,ML2,ML2,x,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,,,,
+Negativ,string,Negativ,Negativ,Negativ,Negativ,Negativ,Negativ,Negativ,,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,Negativ,string,,1024,negativ,240
+Neu?,boolean,Neu?,Neu?,Neu?,Neu?,Neu?,Neu?,Neu?,,KEEP,boolean,KEEP,boolean,KEEP,boolean,KEEP,boolean,KEEP,boolean,KEEP,boolean,KEEP,boolean,Neu?,boolean,4,4,neu,1
+Notiz,string,Notiz,Notiz,Notiz,Notiz,Notiz,Notiz,Notiz,,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,Notiz,string,128,128,notiz,44
+Nummer,string,Nummer,Nummer,Nummer,Nummer,Nummer,Nummer,Nummer,,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,Nummer,string,32,32,nummer,6
+O.Heid. Inv.,string,,,,,,O.Heid. Inv.,,,INSERT,string,INSERT,string,INSERT,string,INSERT,string,INSERT,string,KEEP,string,INSERT,string,O.Heid. Inv.,string,32,32,o_heid_inv,8
+Originaltitel,string,Originaltitel,Originaltitel,Originaltitel,Originaltitel,Originaltitel,Originaltitel,Originaltitel,,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,Originaltitel,text,,2048,originaltitel,429
+Ort,string,Ort,Ort,Ort,Ort,Ort,Ort,Ort,,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,Ort,string,128,128,ort,33
+P_Heid_Inv_Erg,string,P_Heid_Inv_Erg,P_Heid_Inv_Erg,P_Heid_Inv_Erg,P_Heid_Inv_Erg,P.Heid.Inv.Erg.,,,,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,INSERT,string,INSERT,string,P_Heid_Inv_Erg,string,,1024,p_heid_inv_erg,184
+P_Heid_Inv_L,,P_Heid_Inv_L,P_Heid_Inv_L,P_Heid_Inv_L,P_Heid_Inv_L,P.Heid.Inv.L,,,x,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,IGNORE,DELETE,IGNORE,DELETE,DELETE,DELETE,,,,
+P_Heid_Inv_Nr,integer,P_Heid_Inv_Nr,P_Heid_Inv_Nr,P_Heid_Inv_Nr,P_Heid_Inv_Nr,P.Heid. Inv. Nr.,P.Heid. Inv. Nr.,P.Heid. Inv. Nr.,,KEEP,integer,KEEP,integer,KEEP,integer,KEEP,integer,KEEP,integer,KEEP,integer,KEEP,integer,P_Heid_Inv_Nr,integer,16,16,p_heid_inv_nr,4
+P.Heid. Inv.,string,P.Heid. Inv.,P.Heid. Inv.,P.Heid. Inv.,P.Heid. Inv.,P.Heid. Inv.,,P.Heid. Inv.,,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,INSERT,string,KEEP,string,P.Heid. Inv.,string,64,64,p_heid_inv,12
+P.Heid. Inv. Buchstabe,string,P.Heid. Inv. Buchstabe,P.Heid. Inv. Buchstabe,P.Heid. Inv. Buchstabe,P.Heid. Inv. Buchstabe,P.Heid. Inv. Buchstabe,P.Heid. Inv. Buchstabe,P.Heid. Inv. Buchstabe,,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,P.Heid. Inv. Buchstabe,string,128,128,p_heid_inv_buchstabe,45
+Pack2,integer,Pack2,Pack2,Pack2,Pack2,Pack2,Pack2,Pack2,,KEEP,integer,KEEP,integer,KEEP,integer,KEEP,integer,KEEP,integer,KEEP,integer,KEEP,integer,Pack2,integer,16,16,pack2,4
+Paläographisches,string,Paläographisches,,,,,,,,KEEP,string,INSERT,string,INSERT,string,INSERT,string,INSERT,string,INSERT,string,INSERT,string,Paläographisches,text,,4096,palaeographisches,1198
+Photo an,string,Photo an,Photo an,Photo an,Photo an,Photo an,Photo an,Photo an,,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,Photo an,text,,2048,photo_an,476
+Pub sonst,string,Pub sonst,Pub sonst,Pub sonst,Pub sonst,Pub sonst,Pub sonst,Pub sonst,,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,Pub sonst,string,,1024,pub_sonst,311
+Publ_Erg,string,Publ_Erg,Publ_Erg,Publ_Erg,Publ_Erg,,,,,KEEP,string,KEEP,string,KEEP,string,KEEP,string,INSERT,string,INSERT,string,INSERT,string,Publ_Erg,string,64,64,publ_erg,15
+Publikation,string,Publikation,Publikation,Publikation,Publikation,Publikation,Publikation,Publikation,,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,Publikation,string,,1024,publikation,216
+PublikationL,,PublikationL,PublikationL,PublikationL,PublikationL,PublikationL,PublikationL,PublikationL,x,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,,,,
+Rückseite,string,,,,,,,Rückseite,,INSERT,string,INSERT,string,INSERT,string,INSERT,string,INSERT,string,INSERT,string,KEEP,string,Rückseite,string,64,64,rueckseite,20
+RV,string,RV,RV,RV,RV,RV,RV,RV,,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,RV,string,128,128,rv,25
+Schrift,string,Schrift,Schrift,Schrift,Schrift,Schrift,Schrift,Schrift,,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,Schrift,string,64,64,schrift,18
+Seite,string,Seite,Seite,Seite,Seite,Seite,Seite,Seite,,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,Seite,string,32,32,seite,9
+Sortierhilfe,,Sortierhilfe,Sortierhilfe,Sortierhilfe,Sortierhilfe,Sortierhilfe,Sortierhilfe,Sortierhilfe,x,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,,,,
+Sprache,string,Sprache,Sprache,Sprache,Sprache,,,,,KEEP,string,KEEP,string,KEEP,string,KEEP,string,INSERT,string,INSERT,string,INSERT,string,Sprache,string,128,128,sprache,40
+Status,string,Status,Status,Status,Status,,,,,KEEP,string,KEEP,string,KEEP,string,KEEP,string,INSERT,string,INSERT,string,INSERT,string,Status,string,128,128,status,37
+T,integer,T,T,T,T,T,T,T,,KEEP,integer,KEEP,integer,KEEP,integer,KEEP,integer,KEEP,integer,KEEP,integer,KEEP,integer,T,integer,8,8,t1,2
+T2,integer,T2,T2,T2,T2,T2,T2,T2,,KEEP,integer,KEEP,integer,KEEP,integer,KEEP,integer,KEEP,integer,KEEP,integer,KEEP,integer,T2,integer,8,8,t2,2
+T2Hig,string,T2Hig,,,,,,,,KEEP,string,INSERT,string,INSERT,string,INSERT,string,INSERT,string,INSERT,string,INSERT,string,T2Hig,string,,,t2hig,0
+THig,string,THig,,,,,,,,KEEP,string,INSERT,string,INSERT,string,INSERT,string,INSERT,string,INSERT,string,INSERT,string,THig,string,64,64,t1hig,13
+TIFF (600 dpi),string,TIFF (600 dpi),TIFF (600 dpi),TIFF (600 dpi),TIFF (600 dpi),TIFF (600) dpi,,,,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,INSERT,string,INSERT,string,TIFF (600 dpi),string,,,,
+Titel,string,Titel,Titel,Titel,Titel,,,,,KEEP,string,KEEP,string,KEEP,string,KEEP,string,INSERT,string,INSERT,string,INSERT,string,Titel,string,,,titel,0
+TM,integer,TM,TM,TM,TM,TM,TM,TM,x,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,,,,
+TM2,,TM2,TM2,TM2,TM2,TM2,TM2,TM2,x,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,,,,
+TM2 Kopie,,TM2 Kopie,,,,,,,x,DELETE,DELETE,IGNORE,DELETE,IGNORE,DELETE,IGNORE,DELETE,IGNORE,DELETE,IGNORE,DELETE,IGNORE,DELETE,DELETE,DELETE,,,,
+unsicher:,string,,unsicher:,,,unsicher:,unsicher:,unsicher:,,INSERT,string,KEEP,string,INSERT,string,INSERT,string,KEEP,string,KEEP,string,KEEP,string,unsicher:,string,64,64,unsicher,14
+URL Abb.,string,,URL Abb.,URL Abb.,URL Abb.,,,,,INSERT,string,KEEP,string,KEEP,string,KEEP,string,INSERT,string,INSERT,string,INSERT,string,URL Abb.,string,512,512,url_abb,107
+V,,V,V,V,V,V,V,V,x,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,,,,
+V2,,V2,V2,V2,V2,V2,V2,V2,x,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,DELETE,,,,
+Vorhanden,boolean,Vorhanden,,,,,,,,KEEP,boolean,INSERT,boolean,INSERT,boolean,INSERT,boolean,INSERT,boolean,INSERT,boolean,INSERT,boolean,Vorhanden,boolean,,32,vorhanden,9
+Vorhanden/Fehlt,string,Vorhanden/Fehlt,,,,,,,,KEEP,string,INSERT,string,INSERT,string,INSERT,string,INSERT,string,INSERT,string,INSERT,string,Vorhanden/Fehlt,string,,,,
+Wochentag,string,Wochentag,,,,,,,,KEEP,string,INSERT,string,INSERT,string,INSERT,string,INSERT,string,INSERT,string,INSERT,string,Wochentag,string,32,32,wochentag,7
+zuletzt geändert am,date,zuletzt geändert am,zuletzt geändert am,zuletzt geändert am,zuletzt geändert am,,,,,KEEP,date,KEEP,date,KEEP,date,KEEP,date,INSERT,date,INSERT,date,INSERT,date,zuletzt geändert am,date,32,32,zuletzt_geaendert_am,10
+Zus_Band,string,Zus_Band,Zus_Band,Zus_Band,Zus_Band,Zus.Band,Zus.Band,Zus.Band,,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,KEEP,string,Zus_Band,string,,,zus_band,0
+Zusatz:,string,Zusatz:,,Zusatz:,Zusatz:,,,,,KEEP,string,INSERT,string,KEEP,string,KEEP,string,INSERT,string,INSERT,string,INSERT,string,Zusatz:,string,,1024,zusatz,196
+zusätzlich,string,,,,,zusätzlich,zusätzlich,zusätzlich,,INSERT,string,INSERT,string,INSERT,string,INSERT,string,KEEP,string,KEEP,string,KEEP,string,zusätzlich,string,,,zusaetzlich,0
