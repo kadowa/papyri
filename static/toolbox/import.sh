@@ -2,11 +2,10 @@
 
 ROOT=/workspace/web2py/applications/papyri/static/
 IMPORT=$ROOT/import
-TOOLS=$ROOT/tools
+TOOLS=$ROOT/toolbox
 
 declare -A languages
-
-languages=(["aram"]="Aramäisch" ["lat"]="Lateinisch" ["pah"]="Pahlevi" ["syr"]="Syrisch" ["hier"]="Hieratisch" ["hebr"]="Hebräisch" ["ostr"]="Griechisch")
+languages=(["aram"]="Aramäisch" ["lat"]="Lateinisch" ["pah"]="Pahlevi" ["syr"]="Syrisch" ["hier"]="Hieratisch" ["hebr"]="Hebräisch" ["ostr"]="Ostraca")
 
 for LANG in aram lat syr pah hier hebr ostr;
 	do cat $IMPORT/$LANG.tsv.orig | tr "\n" " " | tr "\r" "\n" > $IMPORT/$LANG.tsv;
