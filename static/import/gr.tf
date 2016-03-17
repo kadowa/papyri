@@ -44,7 +44,6 @@ KEEP	string
 INSERT	string
 KEEP	string
 KEEP	list:string
-DELETE	DELETE
 KEEP	string
 KEEP	integer
 KEEP	integer
