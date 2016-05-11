@@ -26,10 +26,11 @@ def index():
 
 def table():
     grid = SQLFORM.grid(
-	db.papyri,
-	buttons_placement="left",
-	showbuttontext=False,
+        db.papyri,
+        buttons_placement="left",
+        showbuttontext=False,
         user_signature=False,
+        paginate=5,
     )
 
     return locals()
