@@ -1,0 +1,46 @@
+{{extend 'layout.html'}}
+
+<h2>Custom Form With Toggle Option</h2>
+
+<form action="#" enctype="multipart/form-data" method="post">
+	<table>
+		<tbody>
+			<tr id="category_abbildung_toggle__row">
+				<td class="toggle" colspan=3 style="background: #A60000; color: #ffffff" onclick=""><i class="fa fa-chevron-down" aria-hidden="true" style="margin: 3px;"></i>Kategorie: Abbildung</td>
+			</tr>
+		</tbody>
+		<tbody id="category_abbildung">
+			<tr id="papyri_abbildung__row">
+				<td class="w2p_fl"><label for="papyri_abbildung" id="papyri_abbildung__label">Abbildung: </label></td>
+				<td class="w2p_fw"><input class="string" id="papyri_abbildung" name="abbildung" value="" type="text"></td>
+				<td class="w2p_fc"></td>
+			</tr>
+		</tbody>
+		<tbody>
+			<tr id="category_abbildung_toggle__row">
+				<td class="toggle" colspan=3 style="background: #A60000; color: #ffffff" onclick=""><i class="fa fa-chevron-right" aria-hidden="true" style="margin: 3px;"></i>Kategorie: Aufnahme</td>
+			</tr>
+		</tbody>
+		<tbody id="category_aufnahme" style="display: none">
+			<tr id="papyri_alte_aufnahme__row">
+				<td class="w2p_fl"><label for="papyri_alte_aufnahme" id="papyri_alte_aufnahme__label">alte Aufnahme: </label></td>
+				<td class="w2p_fw"><input class="string" id="papyri_alte_aufnahme" name="alte_aufnahme" value="" type="text"></td>
+				<td class="w2p_fc"></td>
+			</tr>
+		</tbody>
+		<tbody id="category_submit">
+			<tr id="submit_record__row">
+				<td class="w2p_fl"></td>
+				<td class="w2p_fw"><input class="btn btn-default" value="Submit" type="submit"></td>
+				<td class="w2p_fc"></td>
+			</tr>
+		</tbody>
+	</table>
+</form>
+
+<script type="text/javascript">
+$('.toggle').click(function() {
+    $(this).parent().parent().next().toggle('fast');
+    $("i", this).toggleClass("fa fa-chevron-right fa fa-chevron-down");
+});
+</script>
