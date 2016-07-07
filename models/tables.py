@@ -65,7 +65,6 @@ db.define_table("papyri",
 	Field("neu", type="boolean", label="Neu?", length="4"),
 	Field("notiz", type="string", label="Notiz", length="500"),
 	Field("nummer", type="string", label="Nummer", length="32"),
-	Field("o_heid_inv", type="string", label="O.Heid. Inv.", length="32"),
 	Field("originaltitel", type="text", label="Originaltitel"),
 	Field("ort", type="string", label="Ort", length="128"),
 	Field("p_heid_inv_erg", type="string", label="P_Heid_Inv_Erg"),
@@ -99,4 +98,5 @@ db.define_table("papyri",
 	Field("zus_band", type="string", label="Zus_Band"),
 	Field("zusatz", type="string", label="Zusatz:"),
 	Field("zusaetzlich", type="string", label="zusätzlich"),
+	migrate=False
 )
