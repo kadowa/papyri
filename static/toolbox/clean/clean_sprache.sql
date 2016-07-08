@@ -228,4 +228,5 @@ UPDATE `papyri`.`papyri` SET `sprache`='Arabisch', `sprache_unsicher`='T' WHERE 
 UPDATE `papyri`.`papyri` SET `sprache`='Arabisch', `sprache_unsicher`='T' WHERE `id`='1612';
 UPDATE `papyri`.`papyri` SET `sprache`='Arabisch, Griechisch' WHERE `id`='763';
 UPDATE `papyri`.`papyri` SET `sprache`='Arabisch', `sprache_unsicher`='T' WHERE `id`='63';
-
+/* Make sprache a web2py list field */
+UPDATE papyri.papyri SET sprache = CONCAT("|", REPLACE(sprache, ", ", "|"), "|");
