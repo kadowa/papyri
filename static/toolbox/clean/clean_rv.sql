@@ -1,0 +1,10 @@
+ALTER TABLE papyri.papyri ADD `fb` VARCHAR(2) DEFAULT NULL AFTER `erworben_durch_name`;
+UPDATE papyri.papyri SET fb = "f" WHERE rv = "Vorderseite";
+UPDATE papyri.papyri SET fb = "f" WHERE rv = "Recto";
+UPDATE papyri.papyri SET fb = "f" WHERE rv LIKE "Haarseite%";
+UPDATE papyri.papyri SET fb = "b" WHERE rv = "Rückseite";
+UPDATE papyri.papyri SET fb = "b" WHERE rv = "Verso";
+UPDATE papyri.papyri SET fb = "b" WHERE rv LIKE "Fleischseite%";
+UPDATE papyri.papyri SET fb = "fb" WHERE rv = "Vorderseite u. Rückseite";
+UPDATE papyri.papyri SET fb = "fb" WHERE rv = "Recto u. Verso";
+UPDATE papyri.papyri SET fb = "fb" WHERE rv = "Haarseite u. Fleischseite";
