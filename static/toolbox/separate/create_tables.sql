@@ -38,6 +38,9 @@ CREATE TABLE `papyri` (
   `alte_inv_nr_zahl` varchar(256) DEFAULT NULL,
   `eigenart` varchar(512) DEFAULT NULL,
   `gerahmte_nummer` varchar(16) DEFAULT NULL,
+/* Seiten */
+  `front_id` int(11) DEFAULT NULL,
+  `back_id` int(11) DEFAULT NULL,
 /* Erwerbung */
   `herkunft` varchar(256) DEFAULT NULL,
   `fundort` varchar(64) DEFAULT NULL,
@@ -56,7 +59,8 @@ CREATE TABLE `papyri` (
   `vorhanden_fehlt` varchar(512) DEFAULT NULL,
   `eingegeben_am` date DEFAULT NULL,
   `zuletzt_geaendert_am` date DEFAULT NULL,
-  PRIMARY KEY (`id`)
+  PRIMARY KEY (`id`),
+  UNIQUE (project_id)
 ) ENGINE=InnoDB AUTO_INCREMENT=20776 DEFAULT CHARSET=utf8;
 INSERT INTO papyri_new.papyri (
 	`project_id`, 
