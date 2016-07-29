@@ -1,38 +1,16 @@
-CREATE DATABASE  IF NOT EXISTS `papyri_new` /*!40100 DEFAULT CHARACTER SET utf8 */;
-USE `papyri_new`;
--- MySQL dump 10.13  Distrib 5.5.49, for debian-linux-gnu (x86_64)
---
--- Host: localhost    Database: papyri
--- ------------------------------------------------------
--- Server version	5.5.49-0ubuntu0.14.04.1
-
-/*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
-/*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
-/*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
-/*!40101 SET NAMES utf8 */;
-/*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */;
-/*!40103 SET TIME_ZONE='+00:00' */;
-/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;
-/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;
-/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;
-/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
-
---
--- Table structure for table `papyri`
---
-
-DROP TABLE IF EXISTS `papyri`;
-/*!40101 SET @saved_cs_client     = @@character_set_client */;
-/*!40101 SET character_set_client = utf8 */;
-CREATE TABLE `papyri` (
+CREATE DATABASE  IF NOT EXISTS `papyri` /*!40100 DEFAULT CHARACTER SET utf8 */;
+USE `papyri`
+ALTER TABLE `papyri`.`papyri` RENAME TO  `papyri`.`papyri_old` ;
+DROP TABLE IF EXISTS `papyri`.`papyri`;
+CREATE TABLE `papyri`.`papyri` (
   `id` int(11) NOT NULL AUTO_INCREMENT,
 /* Inventarisierung */
-  `project_id` varchar(20) DEFAULT NULL,
+  `project_id` varchar(25) DEFAULT NULL UNIQUE,
   `heid_inv_cat` varchar(512) DEFAULT NULL,
   `heid_inv_spr` varchar(64) DEFAULT NULL,
   `heid_inv_nr` int(11) DEFAULT NULL,
   `heid_inv_buchstabe` varchar(128) DEFAULT NULL,
-  `heid_inv` varchar(30) DEFAULT NULL,
+  `heid_inv` varchar(35) DEFAULT NULL,
   `alte_inv_nr_buchstabe` varchar(64) DEFAULT NULL,
   `alte_inv_nr_name` varchar(64) DEFAULT NULL,
   `alte_inv_nr_zahl` varchar(256) DEFAULT NULL,
@@ -55,14 +33,15 @@ CREATE TABLE `papyri` (
   `material` varchar(64) DEFAULT NULL,
 /* Sonstiges */
   `katalogisierung` varchar(64) DEFAULT NULL,
-  `ausleihe` varchar(64) DEFAULT NULL,
+  `ausleihe` varchar(512) DEFAULT NULL,
   `vorhanden_fehlt` varchar(512) DEFAULT NULL,
   `eingegeben_am` date DEFAULT NULL,
   `zuletzt_geaendert_am` date DEFAULT NULL,
   PRIMARY KEY (`id`),
   UNIQUE (project_id)
 ) ENGINE=InnoDB AUTO_INCREMENT=20776 DEFAULT CHARSET=utf8;
-INSERT INTO papyri_new.papyri (
+ALTER TABLE papyri.papyri AUTO_INCREMENT = 1;
+INSERT INTO papyri.papyri (
 	`project_id`, 
 	`heid_inv_cat`, 
 	`heid_inv_spr`, 
@@ -115,14 +94,17 @@ SELECT
 	`vorhanden_fehlt`, 
 	`eingegeben_am`, 
 	`zuletzt_geaendert_am`
-FROM papyri.papyri GROUP BY
+FROM papyri.papyri_old GROUP BY
 	`project_id`
 ;
-DROP TABLE IF EXISTS `pages`;
-CREATE TABLE `pages` (
+DROP TABLE IF EXISTS `papyri`.`seiten`;
+CREATE TABLE `papyri`.`seiten` (
   `id` int(11) NOT NULL AUTO_INCREMENT,
-  `project_id` varchar(20) DEFAULT NULL,
+  `project_id` varchar(25) DEFAULT NULL,
   `fb` varchar(2) DEFAULT NULL,
+/* Historisch */
+  `rv` varchar(128) DEFAULT NULL,
+  `andere_seite` varchar(128) DEFAULT NULL,
 /* Publikation */
   `originaltitel` longtext,
   `band` int(11) DEFAULT NULL,
@@ -139,9 +121,9 @@ CREATE TABLE `pages` (
   `pub_sonst` varchar(512) DEFAULT NULL,
   `publ_erg` varchar(64) DEFAULT NULL,
   `publikation` varchar(512) DEFAULT NULL,
-/* New field andere_links */
-/* New field tm_nummer */
-/* New field papyri_info */
+  `andere_links` varchar(512) DEFAULT NULL,
+  `tm_nummer` varchar(64) DEFAULT NULL,
+  `papyri_info` longtext,
 /* Textinformation */
   `art` varchar(128) DEFAULT NULL,
   `art_1` varchar(64) DEFAULT NULL,
@@ -185,7 +167,6 @@ CREATE TABLE `pages` (
   `neu` char(1) DEFAULT NULL,
   `titel` varchar(512) DEFAULT NULL,
   `url_abb` varchar(512) DEFAULT NULL,
-/* New field ausleihe */
 /* Interne Infos: Bearbeitungsstatus */
   `status` varchar(128) DEFAULT NULL,
   `bearb` char(1) DEFAULT NULL,
@@ -202,16 +183,18 @@ CREATE TABLE `pages` (
   `rueckseite` varchar(64) DEFAULT NULL,
   `sprache` varchar(128) DEFAULT NULL,
   `erhaltungszustand` longtext,
-/* New field bem_rest */
+  `bem_rest` varchar(512) DEFAULT NULL,
 /* Sonstiges */
   `eingegeben_am` date DEFAULT NULL,
   `zuletzt_geaendert_am` date DEFAULT NULL,
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB AUTO_INCREMENT=20776 DEFAULT CHARSET=utf8;
-/*!40101 SET character_set_client = @saved_cs_client */;
-INSERT INTO papyri_new.pages (
+ALTER TABLE papyri.seiten AUTO_INCREMENT = 1;
+INSERT INTO papyri.seiten (
   `project_id`,
   `fb`,
+  `rv`,
+  `andere_seite`,
   `originaltitel`,
   `band`,
   `zus_band`,
@@ -286,6 +269,8 @@ INSERT INTO papyri_new.pages (
 SELECT
   `project_id`,
   `fb`,
+  `rv`,
+  `andere_seite`,
   `originaltitel`,
   `band`,
   `zus_band`,
@@ -356,5 +341,6 @@ SELECT
   `erhaltungszustand`,
   `eingegeben_am`,
   `zuletzt_geaendert_am`
-FROM papyri.papyri;
+FROM papyri.papyri_old
+ORDER BY project_id ASC, fb DESC;
 
