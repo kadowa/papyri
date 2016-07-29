@@ -124,7 +124,7 @@ CREATE TABLE `papyri`.`seiten` (
   `pub_sonst` varchar(512) DEFAULT NULL,
   `publ_erg` varchar(64) DEFAULT NULL,
   `publikation` varchar(512) DEFAULT NULL,
-  `andere_links` varchar(512) DEFAULT NULL,
+  `andere_links` longtext,
   `tm_nummer` varchar(64) DEFAULT NULL,
   `papyri_info` longtext,
 /* Textinformation */
