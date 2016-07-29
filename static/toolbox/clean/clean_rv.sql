@@ -9,7 +9,7 @@ UPDATE papyri.papyri SET fb = "fb" WHERE rv = "Vorderseite u. Rückseite";
 UPDATE papyri.papyri SET fb = "fb" WHERE rv = "Recto u. Verso";
 UPDATE papyri.papyri SET fb = "fb" WHERE rv = "Haarseite u. Fleischseite";
 /* Correct empty values (no idea where they are coming from actually */
-UPDATE papyri.papyri SET `fb` = "f" WHERE `fb` LIKE = "";
+UPDATE papyri.papyri SET `fb` = "f" WHERE `fb` LIKE "";
 /*  Correct papyri with page combo (fb, f) and (fb, b) but two pages max */
 UPDATE papyri.papyri SET fb="f" WHERE project_id LIKE 'p_kopt_345' AND fb LIKE 'fb';
 UPDATE papyri.papyri SET fb="f" WHERE project_id LIKE 'p_g_57' AND fb LIKE 'fb';
