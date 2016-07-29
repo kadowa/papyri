@@ -1,11 +1,14 @@
-CREATE DATABASE  IF NOT EXISTS `papyri` /*!40100 DEFAULT CHARACTER SET utf8 */;
-USE `papyri`
+CREATE DATABASE  IF NOT EXISTS `papyri`;
+USE `papyri`;
 ALTER TABLE `papyri`.`papyri` RENAME TO  `papyri`.`papyri_old` ;
 DROP TABLE IF EXISTS `papyri`.`papyri`;
 CREATE TABLE `papyri`.`papyri` (
   `id` int(11) NOT NULL AUTO_INCREMENT,
 /* Inventarisierung */
   `project_id` varchar(25) DEFAULT NULL UNIQUE,
+/* Inventarisierung: Seiten */
+  `front_id` int(11) DEFAULT NULL,
+  `back_id` int(11) DEFAULT NULL,
   `heid_inv_cat` varchar(512) DEFAULT NULL,
   `heid_inv_spr` varchar(64) DEFAULT NULL,
   `heid_inv_nr` int(11) DEFAULT NULL,
@@ -16,9 +19,6 @@ CREATE TABLE `papyri`.`papyri` (
   `alte_inv_nr_zahl` varchar(256) DEFAULT NULL,
   `eigenart` varchar(512) DEFAULT NULL,
   `gerahmte_nummer` varchar(16) DEFAULT NULL,
-/* Seiten */
-  `front_id` int(11) DEFAULT NULL,
-  `back_id` int(11) DEFAULT NULL,
 /* Erwerbung */
   `herkunft` varchar(256) DEFAULT NULL,
   `fundort` varchar(64) DEFAULT NULL,
@@ -31,6 +31,7 @@ CREATE TABLE `papyri`.`papyri` (
   `breite` longtext,
   `hoehe` longtext,
   `material` varchar(64) DEFAULT NULL,
+  `zusammensetzung_info` varchar(512) DEFAULT NULL,
 /* Sonstiges */
   `katalogisierung` varchar(64) DEFAULT NULL,
   `ausleihe` varchar(512) DEFAULT NULL,
@@ -63,6 +64,7 @@ INSERT INTO papyri.papyri (
 	`breite`, 
 	`hoehe`, 
 	`material`, 
+	`zusammensetzung_info`,
 	`katalogisierung`, 
 	`vorhanden_fehlt`, 
 	`eingegeben_am`, 
@@ -90,6 +92,7 @@ SELECT
 	`breite`, 
 	`hoehe`, 
 	`material`, 
+	`zusammensetzung_info`,
 	`katalogisierung`, 
 	`vorhanden_fehlt`, 
 	`eingegeben_am`, 
@@ -343,4 +346,4 @@ SELECT
   `zuletzt_geaendert_am`
 FROM papyri.papyri_old
 ORDER BY project_id ASC, fb DESC;
-
+DROP TABLE IF EXISTS `papyri`.`papyri_old`;
