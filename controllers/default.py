@@ -21,16 +21,28 @@ def index():
     Starting page
     """
     
-    headline = "Papyri"
+    headline = "Papyri-Datenbank"
+
     return locals()
 
-def table():
+def papyri():
     grid = SQLFORM.grid(
         db.papyri,
         buttons_placement="left",
         showbuttontext=False,
         user_signature=False,
-        paginate=5,
+        paginate=10,
+    )
+
+    return locals()
+
+def seiten():
+    grid = SQLFORM.grid(
+        db.seiten,
+        buttons_placement="left",
+        showbuttontext=False,
+        user_signature=False,
+        paginate=10,
     )
 
     return locals()

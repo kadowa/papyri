@@ -23,5 +23,6 @@ response.google_analytics_id = None
 response.menu = [
           #(IMG(_src=URL('static', 'images/papyrus_head.jpg')), False, URL('default','index')),
           ('Start', False, URL(c="default", f="index.html")),
-          (I(_class="icon list icon-list glyphicon glyphicon-list")+" "+T('Table'), False, URL(c="default", f="table")),
+          (I(_class="icon list icon-list glyphicon glyphicon-list")+" "+T('Übersicht Papyri'), False, URL(c="default", f="papyri")),
+          (I(_class="icon list icon-list glyphicon glyphicon-list")+" "+T('Übersicht Papyrus-Seiten'), False, URL(c="default", f="seiten")),	
 ]
