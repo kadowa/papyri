@@ -5,3 +5,12 @@
 private/
 errors/
 sessions/
+controllers/appadmin.py
+cron/
+databases/
+
+
+# eclipse
+.project
+.pydevproject
+.settings/
