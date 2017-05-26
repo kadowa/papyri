@@ -120,6 +120,7 @@ db.define_table("papyri",
 	Field("material", type="string", label="Material", length="64"),
 	# Sonstiges
 	Field("zusammensetzung_info", type="string", label="Informationen zur Zusammensetzung"),
+	Field("fragmentangabe", type="string", label="Fragmentangabe"),
 	Field("katalogisierung", type="string", label="Katalogisierung", length="64"),
 	Field("ausleihe", type="string", label="Informationen zur Ausleihe", length=512),
 	Field("vorhanden_fehlt", type="string", label="Vorhanden/Fehlt"),
