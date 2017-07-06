@@ -1,0 +1,1758 @@
+p_g_1880	rv	1850	P. G 1880	
+p_g_4144	rv	64124	P. G 4144	
+p_hier_566	rv	57043	P. Hier. 566 	
+p_dem_714	rv	54059	P. Dem. 714	
+p_dem_798_g	rv	45754	P. Dem. 798 g 	
+p_dem_40	r	55987	P. Dem. 40 Ro 	
+p_dem_41	r	55987	P. Dem. 41 Ro	
+p_arab_10_a-b	rv	106621	P. Arab. 10 a-b	
+p_arab_19_a	rv	106607	P. Arab. 19 a 	
+p_arab_19_d	rv	106607	P. Arab. 19 d	
+p_dem_683_a-d	rv	55918	P. Dem. 683 A-D 	
+p_g_1285	rv	248	P. G 1285 	
+p_dem_692	rv	454	P. Dem. 692 	
+p_dem_693	rv	454	P. Dem. 693 	
+p_dem_694	rv	454	P. Dem. 694 	
+p_dem_695	rv	454	P. Dem. 695	
+p_dem_667	rv	533	P. Dem. 667 	
+p_dem_696	rv	569	P. Dem. 696 	
+p_dem_9	v	91300	P. 9 Vo [Demotic] 	
+p_dem_40	v	91300	P. Dem. 40 Vo [Demotic] 	
+p_dem_41	v	91300	P. Dem. 41 Vo [Demotic]	
+p_hier_9	v	113115	P. 9 Vo [Hieroglyphic] 	
+p_dem_40	v	113115	P. Dem. 40 Vo [Hieroglyphic] 	
+p_dem_41	v	113115	P. Dem. 41 Vo [Hieroglyphic]	
+o_dem_1776	rv	80899	O. Dem. 1776	Demotic
+o_dem_216	rv	80896	O. Dem. 216	Demotic
+o_dem_460	rv	52450	O. Dem. 460	Demotic
+o_dem_467	rv	52451	O. Dem. 467	Demotic
+o_dem_738	rv	92131	O. Dem. 738	Demotic
+o_dem_739	rv	50503	O. Dem. 739	Demotic
+o_dem_999	rv	80893	O. Dem. 999	Demotic
+o_g_1	rv	80418	O. G 1	Greek
+o_g_10	rv	80430	O. G 10	Greek
+o_g_100	rv	78328	O. G 100	Greek
+o_g_101	rv	80658	O. G 101	Greek
+o_g_102	rv	80668	O. G 102	Greek
+o_g_103	rv	80427	O. G 103 	Greek
+o_g_373	rv	80427	O. G 373	Greek
+o_g_104	rv	80440	O. G 104	Greek
+o_g_105	rv	80293	O. G 105	Greek
+o_g_106	rv	80527	O. G 106	Greek
+o_g_107	rv	80270	O. G 107	Greek
+o_g_108	rv	80562	O. G 108	Greek
+o_g_109	rv	80433	O. G 109	Greek
+o_g_11	rv	78336	O. G 11	Greek
+o_g_110	rv	80305	O. G 110	Greek
+o_g_115	rv	80450	O. G 115	Greek
+o_g_116	rv	80436	O. G 116	Greek
+o_g_117	rv	80303	O. G 117	Greek
+o_g_118	rv	80287	O. G 118	Greek
+o_g_119	rv	80617	O. G 119	Greek
+o_g_12	rv	78349	O. G 12	Greek
+o_g_120	rv	80336	O. G 120	Greek
+o_g_121	rv	79279	O. G 121	Greek
+o_g_122	rv	80289	O. G 122	Greek
+o_g_123	rv	80618	O. G 123	Greek
+o_g_124	rv	80371	O. G 124	Greek
+o_g_125	rv	80493	O. G 125	Greek
+o_g_126	rv	80278	O. G 126	Greek
+o_g_127	rv	80302	O. G 127	Greek
+o_g_128	rv	78318	O. G 128	Greek
+o_g_129	rv	80126	O. G 129	Greek
+o_g_13	rv	78326	O. G 13	Greek
+o_g_130	rv	80345	O. G 130	Greek
+o_g_131	rv	80652	O. G 131	Greek
+o_g_132	rv	80434	O. G 132	Greek
+o_g_133	rv	80286	O. G 133 	Greek
+o_g_328	rv	80286	O. G 328	Greek
+o_g_134	rv	80529	O. G 134	Greek
+o_g_135	rv	80654	O. G 135	Greek
+o_g_136	rv	78327	O. G 136	Greek
+o_g_137	rv	80531	O. G 137	Greek
+o_g_138	rv	80279	O. G 138	Greek
+o_g_139	rv	80653	O. G 139	Greek
+o_g_14	rv	80413	O. G 14	Greek
+o_g_140	rv	78320	O. G 140	Greek
+o_g_141	rv	80563	O. G 141	Greek
+o_g_142	rv	80280	O. G 142	Greek
+o_g_143	rv	80274	O. G 143	Greek
+o_g_144	rv	80635	O. G 144	Greek
+o_g_145	rv	80378	O. G 145	Greek
+o_g_146	rv	80375	O. G 146	Greek
+o_g_147	rv	80366	O. G 147	Greek
+o_g_148	rv	78345	O. G 148	Greek
+o_g_149	rv	78329	O. G 149 	Greek
+o_g_358	rv	78329	O. G 358	Greek
+o_g_15	rv	78352	O. G 15	Greek
+o_g_150	rv	80275	O. G 150	Greek
+o_g_151	rv	80489	O. G 151	Greek
+o_g_152	rv	80340	O. G 152	Greek
+o_g_153	rv	80273	O. G 153	Greek
+o_g_154	rv	80539	O. G 154	Greek
+o_g_156	rv	80452	O. G 156	Greek
+o_g_157	rv	80447	O. G 157	Greek
+o_g_158	rv	80435	O. G 158	Greek
+o_g_159	rv	80288	O. G 159 	Greek
+o_g_270	rv	80288	O. G 270	Greek
+o_g_16	rv	80560	O. G 16 	Greek
+o_g_347	rv	80560	O. G 347 	Greek
+o_g_47	rv	80560	O. G 47	Greek
+o_g_160	rv	80669	O. G 160	Greek
+o_g_161	rv	80290	O. G 161	Greek
+o_g_162	rv	80473	O. G 162	Greek
+o_g_163	rv	80491	O. G 163	Greek
+o_g_164	rv	79277	O. G 164	Greek
+o_g_165	rv	80269	O. G 165	Greek
+o_g_166	rv	80465	O. G 166	Greek
+o_g_167	rv	80584	O. G 167	Greek
+o_g_168	rv	80554	O. G 168	Greek
+o_g_169	rv	80603	O. G 169	Greek
+o_g_17	rv	80648	O. G 17	Greek
+o_g_170	rv	80619	O. G 170	Greek
+o_g_171	rv	80367	O. G 171	Greek
+o_g_172	rv	79275	O. G 172	Greek
+o_g_173	rv	48967	O. G 173	Greek
+o_g_174	rv	80281	O. G 174	Greek
+o_g_175	rv	80589	O. G 175	Greek
+o_g_176	rv	80374	O. G 176	Greek
+o_g_177	rv	80356	O. G 177	Greek
+o_g_178	rv	80402	O. G 178	Greek
+o_g_179	rv	80484	O. G 179	Greek
+o_g_18	rv	80632	O. G 18	Greek
+o_g_180	rv	80583	O. G 180	Greek
+o_g_181	rv	80659	O. G 181	Greek
+o_g_182	rv	80486	O. G 182	Greek
+o_g_183	rv	80488	O. G 183	Greek
+o_g_184	rv	80660	O. G 184	Greek
+o_g_185	rv	80626	O. G 185	Greek
+o_g_186	rv	80462	O. G 186	Greek
+o_g_187	rv	80586	O. G 187	Greek
+o_g_188	rv	80593	O. G 188 	Greek
+o_g_624	rv	80593	O. G 624	Greek
+o_g_189	rv	80607	O. G 189	Greek
+o_g_190	rv	80496	O. G 190	Greek
+o_g_192	rv	80670	O. G 192	Greek
+o_g_193	rv	79273	O. G 193 	Greek
+o_g_310	rv	79273	O. G 310 	Greek
+o_g_333	rv	79273	O. G 333	Greek
+o_g_194	rv	80451	O. G 194	Greek
+o_g_195	rv	80335	O. G 195 	Greek
+o_g_200	rv	80335	O. G 200	Greek
+o_g_196	rv	80438	O. G 196	Greek
+o_g_197	rv	80445	O. G 197	Greek
+o_g_198	rv	80415	O. G 198	Greek
+o_g_199	rv	80540	O. G 199	Greek
+o_g_2	rv	80320	O. G 2	Greek
+o_g_20	rv	78333	O. G 20	Greek
+o_g_201	rv	80414	O. G 201	Greek
+o_g_202	rv	78339	O. G 202	Greek
+o_g_203	rv	79212	O. G 203	Greek
+o_g_204	rv	80666	O. G 204	Greek
+o_g_205	rv	80306	O. G 205	Greek
+o_g_206	rv	80530	O. G 206	Greek
+o_g_207	rv	80466	O. G 207	Greek
+o_g_208	rv	80506	O. G 208	Greek
+o_g_209	rv	80656	O. G 209	Greek
+o_g_21	rv	80590	O. G 21	Greek
+o_g_210	rv	80526	O. G 210	Greek
+o_g_211	rv	80291	O. G 211	Greek
+o_g_212	rv	80395	O. G 212	Greek
+o_g_213	rv	80425	O. G 213	Greek
+o_g_214	rv	80292	O. G 214	Greek
+o_g_215	rv	80495	O. G 215	Greek
+o_g_216	rv	80564	O. G 216	Greek
+o_g_217	rv	80671	O. G 217	Greek
+o_g_218	rv	80565	O. G 218	Greek
+o_g_219	rv	80566	O. G 219	Greek
+o_g_22	rv	80591	O. G 22	Greek
+o_g_220	rv	80429	O. G 220	Greek
+o_g_221	rv	80672	O. G 221	Greek
+o_g_222	rv	78342	O. G 222	Greek
+o_g_223	rv	80524	O. G 223	Greek
+o_g_224	rv	80323	O. G 224	Greek
+o_g_225	rv	80329	O. G 225	Greek
+o_g_226	rv	80426	O. G 226	Greek
+o_g_227	rv	80711	O. G 227	Greek
+o_g_228	rv	80535	O. G 228 	Greek
+o_g_339	rv	80535	O. G 339 	Greek
+o_g_4	rv	80535	O. G 4 	Greek
+o_g_613	rv	80535	O. G 613 	Greek
+o_g_695	rv	80535	O. G 695 	Greek
+o_g_720	rv	80535	O. G 720	Greek
+o_g_229	rv	79213	O. G 229	Greek
+o_g_23	rv	80337	O. G 23	Greek
+o_g_230	rv	80649	O. G 230	Greek
+o_g_231	rv	80532	O. G 231 	Greek
+o_g_313	rv	80532	O. G 313 	Greek
+o_g_340	rv	80532	O. G 340	Greek
+o_g_232	rv	80309	O. G 232	Greek
+o_g_233	rv	80416	O. G 233	Greek
+o_g_234	rv	80308	O. G 234	Greek
+o_g_235	rv	80620	O. G 235	Greek
+o_g_236	rv	80360	O. G 236	Greek
+o_g_237	rv	80412	O. G 237	Greek
+o_g_238	rv	80421	O. G 238	Greek
+o_g_239	rv	80498	O. G 239	Greek
+o_g_24	rv	80316	O. G 24	Greek
+o_g_240	rv	80621	O. G 240	Greek
+o_g_241	rv	80541	O. G 241	Greek
+o_g_242	rv	80443	O. G 242	Greek
+o_g_243	rv	80567	O. G 243 	Greek
+o_g_315	rv	80567	O. G 315 	Greek
+o_g_672	rv	80567	O. G 672	Greek
+o_g_244	rv	80376	O. G 244 	Greek
+o_g_364	rv	80376	O. G 364	Greek
+o_g_245	rv	80507	O. G 245	Greek
+o_g_246	rv	80339	O. G 246	Greek
+o_g_247	rv	80444	O. G 247	Greek
+o_g_248	rv	80608	O. G 248	Greek
+o_g_249	rv	80324	O. G 249	Greek
+o_g_25	rv	80442	O. G 25 	Greek
+o_g_717	rv	80442	O. G 717	Greek
+o_g_250	rv	80330	O. G 250	Greek
+o_g_251	rv	80673	O. G 251	Greek
+o_g_252	rv	80304	O. G 252	Greek
+o_g_253	rv	80661	O. G 253	Greek
+o_g_254	rv	79216	O. G 254	Greek
+o_g_255	rv	80327	O. G 255	Greek
+o_g_256	rv	80411	O. G 256 	Greek
+o_g_693	rv	80411	O. G 693 	Greek
+o_g_91	rv	80411	O. G 91	Greek
+o_g_257	rv	80606	O. G 257 	Greek
+o_g_97	rv	80606	O. G 97	Greek
+o_g_258	rv	79271	O. G 258	Greek
+o_g_259	rv	80657	O. G 259	Greek
+o_g_26	rv	80499	O. G 26	Greek
+o_g_260	rv	80639	O. G 260	Greek
+o_g_261	rv	80518	O. G 261	Greek
+o_g_262	rv	80700	O. G 262	Greek
+o_g_263	rv	79278	O. G 263	Greek
+o_g_264	rv	80642	O. G 264	Greek
+o_g_265	rv	80321	O. G 265	Greek
+o_g_266	rv	80400	O. G 266	Greek
+o_g_267	rv	80471	O. G 267	Greek
+o_g_268	rv	80476	O. G 268	Greek
+o_g_269	rv	80296	O. G 269	Greek
+o_g_27	rv	80519	O. G 27	Greek
+o_g_271	rv	80674	O. G 271	Greek
+o_g_272	rv	80568	O. G 272	Greek
+o_g_273	rv	80542	O. G 273	Greek
+o_g_274	rv	79214	O. G 274 	Greek
+o_g_325	rv	79214	O. G 325 	Greek
+o_g_336	rv	79214	O. G 336	Greek
+o_g_275	rv	80559	O. G 275	Greek
+o_g_276	rv	80446	O. G 276 	Greek
+o_g_285	rv	80446	O. G 285 	Greek
+o_g_344	rv	80446	O. G 344 	Greek
+o_g_351	rv	80446	O. G 351 	Greek
+o_g_359	rv	80446	O. G 359 	Greek
+o_g_95	rv	80446	O. G 95	Greek
+o_g_277	rv	80457	O. G 277	Greek
+o_g_278	rv	80675	O. G 278	Greek
+o_g_28	rv	80394	O. G 28	Greek
+o_g_280	rv	80676	O. G 280 	Greek
+o_g_322	rv	80676	O. G 322	Greek
+o_g_281	rv	80677	O. G 281 	Greek
+o_g_307	rv	80677	O. G 307 	Greek
+o_g_332	rv	80677	O. G 332 	Greek
+o_g_499	rv	80677	O. G 499	Greek
+o_g_282	rv	80615	O. G 282 	Greek
+o_g_559	rv	80615	O. G 559	Greek
+o_g_284	rv	80424	O. G 284 	Greek
+o_g_352	rv	80424	O. G 352 	Greek
+o_g_355	rv	80424	O. G 355	Greek
+o_g_286	rv	80678	O. G 286	Greek
+o_g_287	rv	80477	O. G 287 	Greek
+o_g_571	rv	80477	O. G 571	Greek
+o_g_288	rv	80383	O. G 288 	Greek
+o_g_337	rv	80383	O. G 337	Greek
+o_g_289	rv	80679	O. G 289	Greek
+o_g_29	rv	80492	O. G 29	Greek
+o_g_290	rv	80497	O. G 290	Greek
+o_g_291	rv	80712	O. G 291	Greek
+o_g_292	rv	78351	O. G 292 	Greek
+o_g_684	rv	78351	O. G 684	Greek
+o_g_293	rv	80331	O. G 293	Greek
+o_g_294	rv	80569	O. G 294 	Greek
+o_g_335	rv	80569	O. G 335	Greek
+o_g_295	rv	80464	O. G 295	Greek
+o_g_296	rv	80570	O. G 296	Greek
+o_g_297	rv	78332	O. G 297 	Greek
+o_g_94	rv	78332	O. G 94	Greek
+o_g_3	rv	80399	O. G 3	Greek
+o_g_30	rv	80397	O. G 30	Greek
+o_g_301	rv	80543	O. G 301	Greek
+o_g_305	rv	80513	O. G 305	Greek
+o_g_306	rv	80701	O. G 306	Greek
+o_g_308	rv	80502	O. G 308	Greek
+o_g_31	rv	80469	O. G 31	Greek
+o_g_311	rv	80680	O. G 311	Greek
+o_g_312	rv	80463	O. G 312	Greek
+o_g_314	rv	80571	O. G 314	Greek
+o_g_317	rv	80501	O. G 317	Greek
+o_g_318	rv	80681	O. G 318 	Greek
+o_g_360	rv	80681	O. G 360	Greek
+o_g_319	rv	80609	O. G 319	Greek
+o_g_32	rv	78338	O. G 32	Greek
+o_g_320	rv	80613	O. G 320	Greek
+o_g_329	rv	80682	O. G 329	Greek
+o_g_33	rv	80317	O. G 33	Greek
+o_g_330	rv	80683	O. G 330	Greek
+o_g_334	rv	80665	O. G 334	Greek
+o_g_338	rv	80301	O. G 338 	Greek
+o_g_591	rv	80301	O. G 591	Greek
+o_g_34	rv	78346	O. G 34	Greek
+o_g_341	rv	80393	O. G 341 	Greek
+o_g_701	rv	80393	O. G 701	Greek
+o_g_342	rv	80346	O. G 342	Greek
+o_g_343	rv	80338	O. G 343	Greek
+o_g_345	rv	80643	O. G 345 	Greek
+o_g_354	rv	80643	O. G 354 	Greek
+o_g_644	rv	80643	O. G 644	Greek
+o_g_35	rv	80636	O. G 35	Greek
+o_g_350	rv	80468	O. G 350	Greek
+o_g_357	rv	80322	O. G 357 	Greek
+o_g_702	rv	80322	O. G 702	Greek
+o_g_36	rv	80520	O. G 36	Greek
+o_g_361	rv	80334	O. G 361	Greek
+o_g_362	rv	80538	O. G 362 	Greek
+o_g_546	rv	80538	O. G 546 	Greek
+o_g_637	rv	80538	O. G 637	Greek
+o_g_366	rv	79276	O. G 366 	Greek
+o_g_449	rv	79276	O. G 449	Greek
+o_g_367	rv	80684	O. G 367	Greek
+o_g_369	rv	80120	O. G 369 [now lost]	Greek
+o_g_37	rv	78343	O. G 37	Greek
+o_g_370	rv	80685	O. G 370	Greek
+o_g_371	rv	80347	O. G 371	Greek
+o_g_372	rv	80475	O. G 372	Greek
+o_g_38	rv	80597	O. G 38	Greek
+o_g_384	rv	78348	O. G 384	Greek
+o_g_385	rv	78324	O. G 385	Greek
+o_g_386	rv	80384	O. G 386	Greek
+o_g_387	rv	80116	O. G 387	Greek
+o_g_388	rv	80509	O. G 388	Greek
+o_g_389	rv	43483	O. G 389	Greek
+o_g_39	rv	78350	O. G 39	Greek
+o_g_390	rv	80555	O. G 390	Greek
+o_g_394	rv	80713	O. G 394	Greek
+o_g_395	rv	80127	O. G 395	Greek
+o_g_397	rv	80686	O. G 397	Greek
+o_g_399	rv	80572	O. G 399	Greek
+o_g_40	rv	80431	O. G 40	Greek
+o_g_405	rv	80651	O. G 405	Greek
+o_g_407	rv	80664	O. G 407	Greek
+o_g_409	rv	80494	O. G 409	Greek
+o_g_41	rv	80708	O. G 41	Greek
+o_g_410	rv	80714	O. G 410	Greek
+o_g_415	rv	80710	O. G 415	Greek
+o_g_416	rv	80490	O. G 416	Greek
+o_g_417	rv	80598	O. G 417	Greek
+o_g_418	rv	80715	O. G 418	Greek
+o_g_419	rv	65232	O. G 419	Greek
+o_g_42	rv	80314	O. G 42	Greek
+o_g_425	rv	80556	O. G 425	Greek
+o_g_427	rv	80284	O. G 427	Greek
+o_g_429	rv	80687	O. G 429	Greek
+o_g_43	rv	78347	O. G 43	Greek
+o_g_430	rv	80716	O. G 430	Greek
+o_g_433	rv	80379	O. G 433	Greek
+o_g_434	rv	80662	O. G 434	Greek
+o_g_436	rv	80381	O. G 436	Greek
+o_g_437	rv	80717	O. G 437	Greek
+o_g_44	rv	80297	O. G 44	Greek
+o_g_445	rv	80688	O. G 445	Greek
+o_g_45	rv	78337	O. G 45	Greek
+o_g_459	rv	80505	O. G 459	Greek
+o_g_46	rv	80454	O. G 46	Greek
+o_g_48	rv	78334	O. G 48	Greek
+o_g_488	rv	80689	O. G 488	Greek
+o_g_49	rv	80537	O. G 49	Greek
+o_g_495	rv	80690	O. G 495	Greek
+o_g_498	rv	80718	O. G 498	Greek
+o_g_50	rv	80358	O. G 50	Greek
+o_g_503	rv	80282	O. G 503	Greek
+o_g_51	rv	80277	O. G 51	Greek
+o_g_512	rv	80285	O. G 512	Greek
+o_g_514	rv	80372	O. G 514	Greek
+o_g_517	rv	80719	O. G 517	Greek
+o_g_518	rv	80456	O. G 518	Greek
+o_g_518_a	rv	80588	O. G 518 a	Greek
+o_g_519	rv	80117	O. G 519	Greek
+o_g_52	rv	78354	O. G 52	Greek
+o_g_520	rv	80503	O. G 520	Greek
+o_g_521	rv	80119	O. G 521	Greek
+o_g_522	rv	80118	O. G 522	Greek
+o_g_523	rv	80455	O. G 523	Greek
+o_g_524	rv	80121	O. G 524	Greek
+o_g_525	rv	80573	O. G 525	Greek
+o_g_526	rv	80574	O. G 526	Greek
+o_g_527	rv	80420	O. G 527	Greek
+o_g_528	rv	80470	O. G 528	Greek
+o_g_529	rv	80637	O. G 529	Greek
+o_g_53	rv	80405	O. G 53	Greek
+o_g_530	rv	80479	O. G 530 	Greek
+o_g_583	rv	80479	O. G 583	Greek
+o_g_531	rv	80641	O. G 531	Greek
+o_g_532	rv	80667	O. G 532 	Greek
+o_g_616	rv	80667	O. G 616	Greek
+o_g_533	rv	80516	O. G 533	Greek
+o_g_534	rv	80691	O. G 534	Greek
+o_g_535	rv	80449	O. G 535	Greek
+o_g_536	rv	80575	O. G 536	Greek
+o_g_537	rv	80594	O. G 537	Greek
+o_g_538	rv	78335	O. G 538	Greek
+o_g_539	rv	80650	O. G 539	Greek
+o_g_54	rv	80369	O. G 54	Greek
+o_g_540	rv	80422	O. G 540	Greek
+o_g_541	rv	80514	O. G 541	Greek
+o_g_542	rv	80385	O. G 542	Greek
+o_g_543	rv	80633	O. G 543	Greek
+o_g_544	rv	80622	O. G 544	Greek
+o_g_545	rv	80380	O. G 545	Greek
+o_g_548	rv	80352	O. G 548	Greek
+o_g_55	rv	78330	O. G 55	Greek
+o_g_550	rv	80534	O. G 550	Greek
+o_g_551	rv	80403	O. G 551	Greek
+o_g_552	rv	80480	O. G 552	Greek
+o_g_553	rv	80692	O. G 553	Greek
+o_g_554	rv	80720	O. G 554	Greek
+o_g_555	rv	80610	O. G 555	Greek
+o_g_556	rv	80702	O. G 556	Greek
+o_g_557	rv	80365	O. G 557	Greek
+o_g_558	rv	78344	O. G 558	Greek
+o_g_56	rv	78322	O. G 56	Greek
+o_g_560	rv	80521	O. G 560	Greek
+o_g_561	rv	80703	O. G 561	Greek
+o_g_562	rv	80300	O. G 562	Greek
+o_g_563	rv	80721	O. G 563	Greek
+o_g_564	rv	80351	O. G 564	Greek
+o_g_565	rv	80404	O. G 565	Greek
+o_g_566	rv	80461	O. G 566	Greek
+o_g_567	rv	80349	O. G 567	Greek
+o_g_568	rv	80517	O. G 568	Greek
+o_g_569	rv	80707	O. G 569	Greek
+o_g_57	rv	80624	O. G 57	Greek
+o_g_572	rv	80663	O. G 572	Greek
+o_g_574	rv	80460	O. G 574	Greek
+o_g_575	rv	80453	O. G 575	Greek
+o_g_576	rv	80355	O. G 576	Greek
+o_g_578	rv	80646	O. G 578	Greek
+o_g_579	rv	80388	O. G 579	Greek
+o_g_58	rv	80122	O. G 58	Greek
+o_g_580	rv	80616	O. G 580	Greek
+o_g_581	rv	80485	O. G 581	Greek
+o_g_584	rv	80515	O. G 584	Greek
+o_g_585	rv	80693	O. G 585	Greek
+o_g_586	rv	80504	O. G 586	Greek
+o_g_587	rv	80364	O. G 587	Greek
+o_g_588	rv	80578	O. G 588	Greek
+o_g_59	rv	80602	O. G 59	Greek
+o_g_592	rv	80481	O. G 592	Greek
+o_g_593	rv	80627	O. G 593	Greek
+o_g_594	rv	80333	O. G 594	Greek
+o_g_595	rv	80585	O. G 595	Greek
+o_g_596	rv	80704	O. G 596	Greek
+o_g_597	rv	80448	O. G 597	Greek
+o_g_598	rv	80377	O. G 598	Greek
+o_g_599	rv	80722	O. G 599	Greek
+o_g_6	rv	80328	O. G 6	Greek
+o_g_60	rv	80124	O. G 60	Greek
+o_g_600	rv	80390	O. G 600	Greek
+o_g_601	rv	80348	O. G 601	Greek
+o_g_602	rv	80417	O. G 602	Greek
+o_g_603	rv	80389	O. G 603	Greek
+o_g_604	rv	80482	O. G 604	Greek
+o_g_605	rv	78353	O. G 605	Greek
+o_g_606	rv	80612	O. G 606	Greek
+o_g_607	rv	80544	O. G 607	Greek
+o_g_608	rv	80326	O. G 608	Greek
+o_g_609	rv	80359	O. G 609 	Greek
+o_g_656	rv	80359	O. G 656	Greek
+o_g_61	rv	78321	O. G 61	Greek
+o_g_610	rv	80370	O. G 610	Greek
+o_g_611	rv	80647	O. G 611	Greek
+o_g_612	rv	80396	O. G 612	Greek
+o_g_614	rv	80408	O. G 614	Greek
+o_g_615	rv	80294	O. G 615	Greek
+o_g_617	rv	80545	O. G 617	Greek
+o_g_618	rv	80437	O. G 618	Greek
+o_g_619	rv	80723	O. G 619	Greek
+o_g_62	rv	80299	O. G 62	Greek
+o_g_620	rv	80694	O. G 620	Greek
+o_g_621	rv	80409	O. G 621	Greek
+o_g_622	rv	80611	O. G 622	Greek
+o_g_623	rv	80483	O. G 623	Greek
+o_g_626	rv	80546	O. G 626	Greek
+o_g_627	rv	80472	O. G 627	Greek
+o_g_628	rv	80357	O. G 628	Greek
+o_g_629	rv	79215	O. G 629	Greek
+o_g_63	rv	80268	O. G 63	Greek
+o_g_630	rv	80576	O. G 630	Greek
+o_g_631	rv	80579	O. G 631	Greek
+o_g_634	rv	80354	O. G 634	Greek
+o_g_635	rv	80458	O. G 635	Greek
+o_g_636	rv	80638	O. G 636	Greek
+o_g_638	rv	80623	O. G 638	Greek
+o_g_639	rv	80709	O. G 639	Greek
+o_g_64	rv	80551	O. G 64	Greek
+o_g_640	rv	80341	O. G 640	Greek
+o_g_641	rv	80361	O. G 641	Greek
+o_g_642	rv	80474	O. G 642	Greek
+o_g_643	rv	80428	O. G 643	Greek
+o_g_645	rv	80387	O. G 645	Greek
+o_g_646	rv	80557	O. G 646	Greek
+o_g_647	rv	80644	O. G 647	Greek
+o_g_648	rv	78340	O. G 648	Greek
+o_g_649	rv	80318	O. G 649	Greek
+o_g_65	rv	80410	O. G 65	Greek
+o_g_650	rv	80313	O. G 650	Greek
+o_g_651	rv	80419	O. G 651	Greek
+o_g_652	rv	80580	O. G 652	Greek
+o_g_653	rv	80310	O. G 653	Greek
+o_g_654	rv	80307	O. G 654	Greek
+o_g_655	rv	80315	O. G 655	Greek
+o_g_657	rv	80640	O. G 657	Greek
+o_g_658	rv	80695	O. G 658	Greek
+o_g_659	rv	80605	O. G 659	Greek
+o_g_66	rv	80386	O. G 66	Greek
+o_g_660	rv	80547	O. G 660	Greek
+o_g_661	rv	80581	O. G 661	Greek
+o_g_662	rv	80363	O. G 662	Greek
+o_g_663	rv	80599	O. G 663	Greek
+o_g_664	rv	80350	O. G 664	Greek
+o_g_665	rv	80548	O. G 665	Greek
+o_g_666	rv	80550	O. G 666	Greek
+o_g_667	rv	80604	O. G 667	Greek
+o_g_668	rv	80696	O. G 668	Greek
+o_g_669	rv	80697	O. G 669	Greek
+o_g_67	rv	80342	O. G 67	Greek
+o_g_670	rv	80373	O. G 670	Greek
+o_g_671	rv	80698	O. G 671	Greek
+o_g_673	rv	80459	O. G 673	Greek
+o_g_674	rv	80587	O. G 674	Greek
+o_g_675	rv	80630	O. G 675	Greek
+o_g_676	rv	80487	O. G 676	Greek
+o_g_677	rv	80549	O. G 677	Greek
+o_g_678	rv	80467	O. G 678	Greek
+o_g_679	rv	80536	O. G 679	Greek
+o_g_68	rv	80123	O. G 68	Greek
+o_g_680	rv	80391	O. G 680	Greek
+o_g_681	rv	80319	O. G 681	Greek
+o_g_682	rv	80699	O. G 682	Greek
+o_g_683	rv	80655	O. G 683	Greek
+o_g_685	rv	80525	O. G 685	Greek
+o_g_686	rv	79274	O. G 686	Greek
+o_g_687	rv	80533	O. G 687	Greek
+o_g_688	rv	80295	O. G 688	Greek
+o_g_689	rv	80508	O. G 689	Greek
+o_g_69	rv	78323	O. G 69	Greek
+o_g_690	rv	80312	O. G 690	Greek
+o_g_691	rv	80325	O. G 691	Greek
+o_g_692	rv	80368	O. G 692	Greek
+o_g_694	rv	80582	O. G 694	Greek
+o_g_696	rv	80528	O. G 696	Greek
+o_g_697	rv	80595	O. G 697	Greek
+o_g_698	rv	80500	O. G 698	Greek
+o_g_699	rv	80423	O. G 699	Greek
+o_g_7	rv	80631	O. G 7	Greek
+o_g_70	rv	80561	O. G 70	Greek
+o_g_700	rv	80577	O. G 700	Greek
+o_g_703	rv	80382	O. G 703	Greek
+o_g_704	rv	80512	O. G 704	Greek
+o_g_705	rv	80705	O. G 705	Greek
+o_g_706	rv	80552	O. G 706	Greek
+o_g_707	rv	80283	O. G 707	Greek
+o_g_708	rv	80407	O. G 708	Greek
+o_g_709	rv	80558	O. G 709	Greek
+o_g_71	rv	80267	O. G 71	Greek
+o_g_710	rv	79270	O. G 710	Greek
+o_g_712	rv	80478	O. G 712	Greek
+o_g_713	rv	80401	O. G 713	Greek
+o_g_714	rv	80392	O. G 714	Greek
+o_g_715	rv	80311	O. G 715	Greek
+o_g_716	rv	80398	O. G 716	Greek
+o_g_718	rv	80706	O. G 718	Greek
+o_g_719	rv	80596	O. G 719	Greek
+o_g_72	rv	80271	O. G 72	Greek
+o_g_722	rv	80553	O. G 722	Greek
+o_g_73	rv	80522	O. G 73	Greek
+o_g_74	rv	80523	O. G 74	Greek
+o_g_743	rv	80272	O. G 743	Greek
+o_g_75	rv	80125	O. G 75	Greek
+o_g_753	rv	80432	O. G 753	Greek
+o_g_754	rv	80601	O. G 754	Greek
+o_g_755	rv	78355	O. G 755	Greek
+o_g_756	rv	80634	O. G 756	Greek
+o_g_757	rv	80600	O. G 757	Greek
+o_g_758	rv	80628	O. G 758	Greek
+o_g_759	rv	80629	O. G 759	Greek
+o_g_76	rv	80276	O. G 76	Greek
+o_g_77	rv	48968	O. G 77	Greek
+o_g_78	rv	78341	O. G 78	Greek
+o_g_79	rv	79272	O. G 79	Greek
+o_g_8	rv	80343	O. G 8	Greek
+o_g_80	rv	78325	O. G 80	Greek
+o_g_81	rv	80332	O. G 81	Greek
+o_g_83	rv	80625	O. G 83	Greek
+o_g_85	rv	80614	O. G 85	Greek
+o_g_86	rv	80344	O. G 86	Greek
+o_g_87	rv	80362	O. G 87	Greek
+o_g_88	rv	78319	O. G 88	Greek
+o_g_89	rv	80441	O. G 89	Greek
+o_g_9	rv	80511	O. G 9	Greek
+o_g_90	rv	80439	O. G 90	Greek
+o_g_92	rv	80298	O. G 92	Greek
+o_g_93	rv	80353	O. G 93	Greek
+o_g_96	rv	78331	O. G 96	Greek
+o_g_98	rv	80592	O. G 98	Greek
+o_g_99	rv	80645	O. G 99	Greek
+o_kopt_1772	rv	88086	O. Kopt. 1772	Coptic
+o_kopt_1773	rv	88087	O. Kopt. 1773	Coptic
+o_kopt_297	rv	88011	O. Kopt. 297	Coptic
+o_kopt_418	rv	88088	O. Kopt. 418	Coptic
+o_kopt_773	rv	88012	O. Kopt. 773	Coptic
+o_kopt_774	rv	87986	O. Kopt. 774	Coptic
+p_arab_10	rv	106488	P. Arab. 10	Arabic
+p_arab_10_c-e	rv	106486	P. Arab. 10 c- e	Arabic
+p_arab_10_f-h	rv	106491	P. Arab. 10 f-h 	Arabic
+p_arab_17	rv	106491	P. Arab. 17	Arabic
+p_arab_100	v	169159	P. Arab. 100 Vo	Arabic
+p_arab_1018	v	464383	P. Arab. 1018 Vo	Arabic
+p_arab_102	r	169227	P. Arab. 102 Ro	Arabic
+p_arab_1061	r	463956	P. Arab. 1061 Ro	Arabic
+p_arab_1070	v	464397	P. Arab. 1070 Vo	Arabic
+p_arab_1074	r	464374	P. Arab. 1074 Ro	Arabic
+p_arab_11	rv	106483	P. Arab. 11	Arabic
+p_arab_1109	v	464369	P. Arab. 1109 Vo	Arabic
+p_arab_1174	v	464376	P. Arab. 1174 Vo	Arabic
+p_arab_1196	rv	464329	P. Arab. 1196	Arabic
+p_arab_120_palimpsest_old	rv	169189	P. Arab. 120 [palimpsest old]	Arabic
+p_arab_131	r	169231	P. Arab. 131 Ro	Arabic
+p_arab_132	v	169182	P. Arab. 132 Vo	Arabic
+p_arab_135	rv	169129	P. Arab. 135	Arabic
+p_arab_140	v	169167	P. Arab. 140 Vo	Arabic
+p_arab_144	rv	169185	P. Arab. 144	Arabic
+p_arab_146	v	169217	P. Arab. 146 Vo	Arabic
+p_arab_147	r	169202	P. Arab. 147 Ro	Arabic
+p_arab_147	v	463772	P. Arab. 147 Vo	Arabic
+p_arab_148	r	169132	P. Arab. 148 Ro	Arabic
+p_arab_151	v	106738	P. Arab. 151 Vo	Arabic
+p_arab_1563	r	464067	P. Arab. 1563 Ro	Arabic
+p_arab_158	r	169184	P. Arab. 158 Ro	Arabic
+p_arab_159	r	463631	P. Arab. 159 Ro	Arabic
+p_arab_159	v	463633	P. Arab. 159 Vo	Arabic
+p_arab_16	rv	106484	P. Arab. 16	Arabic
+p_arab_169	v	169209	P. Arab. 169 Vo	Arabic
+p_arab_171	rv	169219	P. Arab. 171	Arabic
+p_arab_172	rv	169188	P. Arab. 172	Arabic
+p_arab_174	v	463687	P. Arab. 174 Vo	Arabic
+p_arab_176	rv	169248	P. Arab. 176	Arabic
+p_arab_18	rv	106485	P. Arab. 18	Arabic
+p_arab_184	v	169218	P. Arab. 184 Vo	Arabic
+p_arab_186	r	169232	P. Arab. 186 Ro	Arabic
+p_arab_1888	r	463756	P. Arab. 1888 Ro	Arabic
+p_arab_189	rv	169194	P. Arab. 189	Arabic
+p_arab_19	rv	106495	P. Arab. 19	Arabic
+p_arab_19_h-l	rv	106490	P. Arab. 19 h-l	Arabic
+p_arab_192	r	169233	P. Arab. 192 Ro	Arabic
+p_arab_1921	v	463735	P. Arab. 1921 Vo	Arabic
+p_arab_199	rv	169203	P. Arab. 199	Arabic
+p_arab_20	rv	39656	P. Arab. 20	Arabic
+p_arab_200	r	169229	P. Arab. 200 Ro	Arabic
+p_arab_2013	v	463643	P. Arab. 2013 Vo	Arabic
+p_arab_202_b	r	169220	P. Arab. 202 b Ro	Arabic
+p_arab_202_b	v	463686	P. Arab. 202 b Vo	Arabic
+p_arab_2025	v	463960	P. Arab. 2025 Vo	Arabic
+p_arab_2029	v	464396	P. Arab. 2029 Vo	Arabic
+p_arab_203	r	463882	P. Arab. 203 Ro	Arabic
+p_arab_2030	v	464385	P. Arab. 2030 Vo	Arabic
+p_arab_2048	v	463592	P. Arab. 2048 Vo	Arabic
+p_arab_21	r	169175	P. Arab. 21 Ro	Arabic
+p_arab_213	v	463577	P. Arab. 213 Vo	Arabic
+p_arab_216	r	169156	P. Arab. 216 Ro	Arabic
+p_arab_216	v	169234	P. Arab. 216 Vo	Arabic
+p_arab_217	rv	169228	P. Arab. 217	Arabic
+p_arab_2191	v	463760	P. Arab. 2191 Vo	Arabic
+p_arab_2198	v	464069	P. Arab. 2198 Vo	Arabic
+p_arab_22	r	106715	P. Arab. 22 Ro	Arabic
+p_arab_22	v	463683	P. Arab. 22 Vo	Arabic
+p_arab_220	r	169252	P. Arab. 220 Ro	Arabic
+p_arab_2258	v	463676	P. Arab. 2258 Vo	Arabic
+p_arab_2268	v	463818	P. Arab. 2268 Vo	Arabic
+p_arab_227	r	169153	P. Arab. 227 Ro	Arabic
+p_arab_229	rv	169223	P. Arab. 229	Arabic
+p_arab_230	rv	322183	P. Arab. 230	Arabic
+p_arab_2302	r	463588	P. Arab. 2302 Ro	Arabic
+p_arab_2311	r	464382	P. Arab. 2311 Ro	Arabic
+p_arab_232	r	463761	P. Arab. 232 Ro	Arabic
+p_arab_238	r	463670	P. Arab. 238 Ro	Arabic
+p_arab_238	v	463671	P. Arab. 238 Vo	Arabic
+p_arab_2393	r	463635	P. Arab. 2393 Ro	Arabic
+p_arab_2407	r	464389	P. Arab. 2407 Ro	Arabic
+p_arab_2410	r	464387	P. Arab. 2410 Ro	Arabic
+p_arab_2412	v	464388	P. Arab. 2412 Vo	Arabic
+p_arab_248	r	169177	P. Arab. 248 Ro	Arabic
+p_arab_2525	r	463985	P. Arab. 2525 Ro	Arabic
+p_arab_2544	r	463614	P. Arab. 2544 Ro	Arabic
+p_arab_2550	v	463624	P. Arab. 2550 Vo	Arabic
+p_arab_2618	v	464384	P. Arab. 2618 Vo	Arabic
+p_arab_2629	r	464001	P. Arab. 2629 Ro	Arabic
+p_arab_263	r	463679	P. Arab. 263 Ro	Arabic
+p_arab_2630	r	463822	P. Arab. 2630 Ro	Arabic
+p_arab_264	v	463646	P. Arab. 264 Vo	Arabic
+p_arab_2645	v	463799	P. Arab. 2645 Vo	Arabic
+p_arab_2647	v	464073	P. Arab. 2647 Vo	Arabic
+p_arab_2667	r	464377	P. Arab. 2667 Ro	Arabic
+p_arab_2685	r	463819	P. Arab. 2685 Ro	Arabic
+p_arab_2698	r	464378	P. Arab. 2698 Ro	Arabic
+p_arab_2722	r	464381	P. Arab. 2722 Ro	Arabic
+p_arab_274	v	463580	P. Arab. 274 Vo	Arabic
+p_arab_278	r	463650	P. Arab. 278 Ro	Arabic
+p_arab_2810	r	464014	P. Arab. 2810 Ro	Arabic
+p_arab_2818	r	463798	P. Arab. 2818 Ro	Arabic
+p_arab_282	v	463597	P. Arab. 282 Vo	Arabic
+p_arab_283	r	463600	P. Arab. 283 Ro	Arabic
+p_arab_284_palimpsest_new	rv	169207	P. Arab. 284 [palimpsest new]	Arabic
+p_arab_285	rv	463602	P. Arab. 285 Ro & Vo	Arabic
+p_arab_2864	v	464392	P. Arab. 2864 Vo	Arabic
+p_arab_298	rv	464365	P. Arab. 298 Ro & Vo	Arabic
+p_arab_299	r	169221	P. Arab. 299 Ro	Arabic
+p_arab_299	v	169169	P. Arab. 299 Vo	Arabic
+p_arab_3	rv	106482	P. Arab. 3 - 7	Arabic
+p_arab_4        rv      106482  P. Arab. 3 - 7  Arabic
+p_arab_5        rv      106482  P. Arab. 3 - 7  Arabic
+p_arab_6        rv      106482  P. Arab. 3 - 7  Arabic
+p_arab_7        rv      106482  P. Arab. 3 - 7  Arabic
+p_arab_300	r	463586	P. Arab. 300 Ro	Arabic
+p_arab_306	rv	464161	P. Arab. 306	Arabic
+p_arab_3064	r	464370	P. Arab. 3064 Ro	Arabic
+p_arab_3069	r	464371	P. Arab. 3069 Ro	Arabic
+p_arab_3069	v	464372	P. Arab. 3069 Vo	Arabic
+p_arab_309	v	463977	P. Arab. 309 Vo	Arabic
+p_arab_3126	v	464391	P. Arab. 3126 Vo	Arabic
+p_arab_3129	v	464390	P. Arab. 3129 Vo	Arabic
+p_arab_313	r	463673	P. Arab. 313 Ro	Arabic
+p_arab_313	v	463621	P. Arab. 313 Vo	Arabic
+p_arab_3148	v	464373	P. Arab. 3148 Vo	Arabic
+p_arab_3159	r	464394	P. Arab. 3159 Ro	Arabic
+p_arab_3159	v	464393	P. Arab. 3159 Vo	Arabic
+p_arab_3165	v	464380	P. Arab. 3165 Vo	Arabic
+p_arab_318	v	463957	P. Arab. 318 Vo	Arabic
+p_arab_330	rv	169243	P. Arab. 330	Arabic
+p_arab_332	r	463672	P. Arab. 332 Ro	Arabic
+p_arab_333	r	463607	P. Arab. 333 Ro	Arabic
+p_arab_349	v	463961	P. Arab. 349 Vo	Arabic
+p_arab_351	rv	463907	P. Arab. 351	Arabic
+p_arab_356	v	463587	P. Arab. 356 Vo	Arabic
+p_arab_371	r	169254	P. Arab. 371 Ro	Arabic
+p_arab_371	v	169163	P. Arab. 371 Vo	Arabic
+p_arab_372	rv	169165	P. Arab. 372	Arabic
+p_arab_373	r	169160	P. Arab. 373 Ro	Arabic
+p_arab_373	v	169172	P. Arab. 373 Vo	Arabic
+p_arab_375	v	463651	P. Arab. 375 Vo	Arabic
+p_arab_381	r	169168	P. Arab. 381 Ro	Arabic
+p_arab_381	v	169240	P. Arab. 381 Vo	Arabic
+p_arab_382	v	169251	P. Arab. 382 Vo (secondary use)	Arabic
+p_arab_391	rv	169164	P. Arab. 391	Arabic
+p_arab_400	v	463596	P. Arab. 400 Vo	Arabic
+p_arab_402	r	169126	P. Arab. 402 Ro	Arabic
+p_arab_402	v	463685	P. Arab. 402 Vo	Arabic
+p_arab_44	v	463675	P. Arab. 44 Vo	Arabic
+p_arab_441	v	463824	P. Arab. 441 Vo	Arabic
+p_arab_451	rv	169131	P. Arab. 451	Arabic
+p_arab_456	rv	464364	P. Arab. 456 Ro & Vo	Arabic
+p_arab_457	v	169157	P. Arab. 457 Vo	Arabic
+p_arab_469	rv	463691	P. Arab. 469 Ro & Vo	Arabic
+p_arab_470	r	169222	P. Arab. 470 Ro	Arabic
+p_arab_471	r	463688	P. Arab. 471 Ro	Arabic
+p_arab_472	r	169124	P. Arab. 472 Ro	Arabic
+p_arab_472	v	463684	P. Arab. 472 Vo	Arabic
+p_arab_473	r	463669	P. Arab. 473 Ro	Arabic
+p_arab_474	rv	463689	P. Arab. 474 Ro & Vo	Arabic
+p_arab_475	r	463677	P. Arab. 475 Ro	Arabic
+p_arab_478	r	169200	P. Arab. 478 Ro	Arabic
+p_arab_479	r	169259	P. Arab. 479 Ro	Arabic
+p_arab_480	rv	463682	P. Arab. 480 Ro & Vo	Arabic
+p_arab_482	r	169128	P. Arab. 482 Ro	Arabic
+p_arab_482	v	463652	P. Arab. 482 Vo	Arabic
+p_arab_485	rv	169255	P. Arab. 485	Arabic
+p_arab_487	r	169174	P. Arab. 487 Ro	Arabic
+p_arab_493	r	169214	P. Arab. 493 Ro	Arabic
+p_arab_494	rv	169262	P. Arab. 494	Arabic
+p_arab_495	rv	169264	P. Arab. 495	Arabic
+p_arab_496	rv	169148	P. Arab. 496	Arabic
+p_arab_517	v	169187	P. Arab. 517 Vo	Arabic
+p_arab_518	rv	464076	P. Arab. 518	Arabic
+p_arab_534	r	464092	P. Arab. 534 Ro	Arabic
+p_arab_550	rv	464091	P. Arab. 550	Arabic
+p_arab_552	r	169236	P. Arab. 552 Ro	Arabic
+p_arab_552	v	169239	P. Arab. 552 Vo	Arabic
+p_arab_553	r	169180	P. Arab. 553 Ro	Arabic
+p_arab_553	v	463483	P. Arab. 553 Vo	Arabic
+p_arab_555	v	169170	P. Arab. 555 Vo	Arabic
+p_arab_557	v	463963	P. Arab. 557 Vo	Arabic
+p_arab_572	r	463594	P. Arab. 572 Ro	Arabic
+p_arab_575	rv	169257	P. Arab. 575	Arabic
+p_arab_583	r	463667	P. Arab. 583 Ro	Arabic
+p_arab_583	v	463668	P. Arab. 583 Vo	Arabic
+p_arab_592	rv	463604	P. Arab. 592 Ro & Vo	Arabic
+p_arab_592_b	v	463609	P. Arab. 592 Vo [b]	Arabic
+p_arab_592_c	v	463610	P. Arab. 592 Vo [c]	Arabic
+p_arab_593	r	169215	P. Arab. 593 Ro	Arabic
+p_arab_593	v	169166	P. Arab. 593 Vo	Arabic
+p_arab_595	v	169155	P. Arab. 595 Vo	Arabic
+p_arab_598	r	169140	P. Arab. 598 Ro	Arabic
+p_arab_598	v	169149	P. Arab. 598 Vo	Arabic
+p_arab_64	v	463745	P. Arab. 64 Vo	Arabic
+p_arab_66	rv	463583	P. Arab. 66 Ro & Vo	Arabic
+p_arab_745	rv	463573	P. Arab. 745	Arabic
+p_arab_8	rv	106481	P. Arab. 8 	Arabic
+p_arab_9	rv	106481	P. Arab. 9	Arabic
+p_arab_806	v	463752	P. Arab. 806 Vo	Arabic
+p_arab_857	v	463771	P. Arab. 857 Vo	Arabic
+p_arab_865	r	463820	P. Arab. 865 Ro	Arabic
+p_arab_871	v	463835	P. Arab. 871 Vo	Arabic
+p_arab_879	v	463778	P. Arab. 879 Vo	Arabic
+p_arab_88	v	169241	P. Arab. 88 Vo	Arabic
+p_arab_880	r	463814	P. Arab. 880 Ro	Arabic
+p_arab_884	v	463825	P. Arab. 884 Vo	Arabic
+p_arab_892	r	463837	P. Arab. 892 Ro	Arabic
+p_arab_894	r	463962	P. Arab. 894 Ro	Arabic
+p_arab_900	v	169213	P. Arab. 900 Vo	Arabic
+p_arab_931	v	463616	P. Arab. 931 Vo	Arabic
+p_arab_958	v	463581	P. Arab. 958 Vo	Arabic
+p_dem_10	rv	45932	P. Dem. 10 	Demotic
+p_dem_11	rv	45932	P. Dem. 11	Demotic
+p_dem_22	rv	46868	P. Dem. 22	Demotic
+p_dem_24	rv	69674	P. Dem. 24	Demotic
+p_dem_25	rv	46869	P. Dem. 25	Demotic
+p_dem_295	r	91298	P. Dem. 295 Ro	Demotic
+p_dem_295	v	55994	P. Dem. 295 Vo	Demotic
+p_dem_38	rv	46870	P. Dem. 38	Demotic
+p_dem_4432	rv	130	P. Dem. 4432 [old]	Demotic
+p_dem_46	rv	244119	P. dem. 46	Demotic
+p_dem_49	rv	46871	P. Dem. 49	Demotic
+p_dem_51	rv	46872	P. Dem. 51	Demotic
+p_dem_54	rv	46873	P. Dem. 54	Demotic
+p_dem_55	rv	46874	P. Dem. 55	Demotic
+p_dem_56	rv	46875	P. Dem. 56	Demotic
+p_dem_57	rv	46876	P. Dem. 57	Demotic
+p_dem_58	rv	46877	P. Dem. 58	Demotic
+p_dem_59	rv	46878	P. Dem. 59	Demotic
+p_dem_62	rv	46879	P. Dem. 62	Demotic
+p_dem_652	rv	46881	P. Dem. 652	Demotic
+p_dem_663	rv	55974	P. Dem. 663	Demotic
+p_dem_664	rv	92367	P. Dem. 664	Demotic
+p_dem_665	rv	92732	P. Dem. 665	Demotic
+p_dem_669	rv	91886	P. Dem. 669	Demotic
+p_dem_674	rv	92132	P. Dem. 674	Demotic
+p_dem_679	rv	322185	P. dem. 679	Demotic
+p_dem_68	rv	46880	P. Dem. 68	Demotic
+p_dem_684	rv	46882	P. Dem. 684	Demotic
+p_dem_685	rv	46883	P. Dem. 685	Demotic
+p_dem_691	rv	56012	P. Dem. 691 [718] 	Demotic
+p_dem_776_b	rv	55903	P. Dem. 691 [776 b] 	Demotic
+p_dem_700_a-c	rv	207	P. Dem. 700 a-c 	Demotic
+p_dem_703_e-f	rv	207	P. Dem. 703 e-f 	Demotic
+p_dem_715	rv	207	P. Dem. 715 	Demotic
+p_dem_701	rv	223	P. Dem. 701	Demotic
+p_dem_702	rv	92933	P. Dem. 702	Demotic
+p_dem_703_a	rv	197	P. Dem. 703 a	Demotic
+p_dem_703_b	rv	92909	P. Dem. 703 b	Demotic
+p_dem_703_c	rv	198	P. Dem. 703 c	Demotic
+p_dem_703_d	rv	92910	P. Dem. 703 d	Demotic
+p_dem_704	rv	184	P. Dem. 704	Demotic
+p_dem_705	rv	93032	P. Dem. 705	Demotic
+p_dem_709	rv	91906	P. Dem. 709 	Demotic
+p_dem_710	rv	93059	P. Dem. 710 	Demotic
+p_dem_714_b	rv	93059	P. Dem. 714 b	Demotic
+p_dem_711	rv	193	P. Dem. 711	Demotic
+p_dem_712_a	rv	298	P. Dem. 712 a	Demotic
+p_dem_712_b	rv	92911	P. Dem. 712 b 	Demotic
+p_dem_748_c	rv	92911	P. Dem. 748 c 	Demotic
+p_dem_761_b	rv	92911	P. Dem. 761 b	Demotic
+p_dem_713	rv	200	P. Dem. 713 	Demotic
+p_dem_741_a	rv	200	P. Dem. 741 a 	Demotic
+p_dem_747_a	rv	200	P. Dem. 747 a 	Demotic
+p_dem_756_e	rv	200	P. Dem. 756 e 	Demotic
+p_dem_781_f	rv	200	P. Dem. 781 f	Demotic
+p_dem_714_a	rv	93060	P. Dem. 714 a	Demotic
+p_dem_717_a	rv	93033	P. Dem. 717 a	Demotic
+p_dem_717_b	rv	93034	P. Dem. 717 b	Demotic
+p_dem_717_c	rv	93035	P. Dem. 717 c	Demotic
+p_dem_717_d	rv	93036	P. Dem. 717 d	Demotic
+p_dem_719	rv	92558	P. Dem. 719	Demotic
+p_dem_721	rv	189	P. Dem. 721 	Demotic
+p_dem_757_a	rv	189	P. Dem. 757 a	Demotic
+p_dem_722	rv	175	P. Dem. 722	Demotic
+p_dem_723	rv	221	P. Dem. 723	Demotic
+p_dem_724	rv	186	P. Dem. 724	Demotic
+p_dem_725	rv	230	P. Dem. 725	Demotic
+p_dem_726_a	rv	93065	P. Dem. 726 a 	Demotic
+p_dem_726_d	rv	93065	P. Dem. 726 d 	Demotic
+p_dem_726_g	rv	93065	P. Dem. 726 g 	Demotic
+p_dem_727_a	rv	93065	P. Dem. 727 a 	Demotic
+p_dem_727_b	rv	93065	P. Dem. 727 b 	Demotic
+p_dem_735_a	rv	93065	P. Dem. 735 a 	Demotic
+p_dem_735_b	rv	93065	P. Dem. 735 b 	Demotic
+p_dem_735_c	rv	93065	P. Dem. 735 c 	Demotic
+p_dem_735_d	rv	93065	P. Dem. 735 d 	Demotic
+p_dem_735_e	rv	93065	P. Dem. 735 e 	Demotic
+p_dem_735_f	rv	93065	P. Dem. 735 f 	Demotic
+p_dem_735_g	rv	93065	P. Dem. 735 g 	Demotic
+p_dem_744_e	rv	93065	P. Dem. 744 e 	Demotic
+p_dem_748_g	rv	93065	P. Dem. 748 g 	Demotic
+p_dem_749_a	rv	93065	P. Dem. 749 a 	Demotic
+p_dem_750_b	rv	93065	P. Dem. 750 b 	Demotic
+p_dem_750_c	rv	93065	P. Dem. 750 c 	Demotic
+p_dem_751_a	rv	93065	P. Dem. 751 a 	Demotic
+p_dem_763_a	rv	93065	P. Dem. 763 a	Demotic
+p_dem_726_b	rv	93070	P. Dem. 726 b 	Demotic
+p_dem_728_b	rv	93070	P. Dem. 728 b 	Demotic
+p_dem_729_a	rv	93070	P. Dem. 729 a	Demotic
+p_dem_726_c	rv	93072	P. Dem. 726 c 	Demotic
+p_dem_754_d	rv	93072	P. Dem. 754 d	Demotic
+p_dem_726_e	rv	93061	P. Dem. 726 e	Demotic
+p_dem_726_f	rv	93073	P. Dem. 726 f 	Demotic
+p_dem_727_d	rv	93073	P. Dem. 727 d	Demotic
+p_dem_727_c	rv	183	P. Dem. 727 c 	Demotic
+p_dem_756_d	rv	183	P. Dem. 756 d	Demotic
+p_dem_728_a	rv	93074	P. Dem. 728 a	Demotic
+p_dem_728_c	rv	165	P. Dem. 728 c	Demotic
+p_dem_729_b	rv	93075	P. Dem. 729 b 	Demotic
+p_dem_744_a	rv	93075	P. Dem. 744 a 	Demotic
+p_dem_748_b	rv	93075	P. Dem. 748 b 	Demotic
+p_dem_780_c	rv	93075	P. Dem. 780 c	Demotic
+p_dem_729_c	rv	93076	P. Dem. 729 c 	Demotic
+p_dem_767_c	rv	93076	P. Dem. 767 c	Demotic
+p_dem_729_d	rv	179	P. Dem. 729 d	Demotic
+p_dem_729_e	rv	93077	P. Dem. 729 e	Demotic
+p_dem_730_a	rv	93051	P. Dem. 730 a 	Demotic
+p_dem_730_b	rv	93051	P. Dem. 730 b 	Demotic
+p_dem_744_d	rv	93051	P. Dem. 744 d 	Demotic
+p_dem_748_i	rv	93051	P. Dem. 748 i 	Demotic
+p_dem_749_b	rv	93051	P. Dem. 749 b 	Demotic
+p_dem_749_c	rv	93051	P. Dem. 749 c 	Demotic
+p_dem_778_b	rv	93051	P. Dem. 778 b 	Demotic
+p_dem_780_a	rv	93051	P. Dem. 780 a 	Demotic
+p_dem_780_b	rv	93051	P. Dem. 780 b	Demotic
+p_dem_731_a	rv	92940	P. Dem. 731 a	Demotic
+p_dem_731_b	rv	92941	P. Dem. 731 b	Demotic
+p_dem_731_c	rv	92942	P. Dem. 731 c	Demotic
+p_dem_732	rv	93078	P. Dem. 732	Demotic
+p_dem_733_b	rv	93057	P. Dem. 733 b	Demotic
+p_dem_733_c	rv	92818	P. Dem. 733 c 	Demotic
+p_dem_743_b	rv	92818	P. Dem. 743 b	Demotic
+p_dem_734_a	rv	56354	P. Dem. 734 a	Demotic
+p_dem_734_b	rv	173	P. Dem. 734 b	Demotic
+p_dem_734_c	rv	174	P. Dem. 734 c	Demotic
+p_dem_736	r	55856	P. Dem. 736 Ro	Demotic
+p_dem_736	v	55941	P. Dem. 736 Vo	Demotic
+p_dem_737_a	rv	172	P. Dem. 737 a 	Demotic
+p_dem_765_a	rv	172	P. Dem. 765 a	Demotic
+p_dem_737_b	rv	166	P. Dem. 737 b 	Demotic
+p_dem_751_b	rv	166	P. Dem. 751 b 	Demotic
+p_dem_797_d	rv	166	P. Dem. 797 d	Demotic
+p_dem_737_c	rv	167	P. Dem. 737 c	Demotic
+p_dem_737_d	rv	92912	P. Dem. 737 d	Demotic
+p_dem_737_e	rv	169	P. Dem. 737 e	Demotic
+p_dem_737_f	rv	180	P. Dem. 737 f	Demotic
+p_dem_737_g	rv	182	P. Dem. 737 g	Demotic
+p_dem_738	rv	190	P. Dem. 738 	Demotic
+p_dem_758_b	rv	190	P. Dem. 758 b	Demotic
+p_dem_739_a	rv	295	P. Dem. 739 a	Demotic
+p_dem_739_b	rv	92934	P. Dem. 739 b	Demotic
+p_dem_740	rv	199	P. Dem. 740	Demotic
+p_dem_741_b	rv	194	P. Dem. 741 b	Demotic
+p_dem_742_a	rv	296	P. Dem. 742 a	Demotic
+p_dem_742_b	rv	159	P. Dem. 742 b 	Demotic
+p_dem_781_a	rv	159	P. Dem. 781 a	Demotic
+p_dem_742_c	rv	181	P. Dem. 742 c	Demotic
+p_dem_743_a	rv	93080	P. Dem. 743 a	Demotic
+p_dem_744_b	rv	92913	P. Dem. 744 b	Demotic
+p_dem_744_c	rv	93081	P. Dem. 744 c	Demotic
+p_dem_745	rv	195	P. Dem. 745 	Demotic
+p_dem_776_a	rv	195	P. Dem. 776 a	Demotic
+p_dem_746	rv	160	P. Dem. 746	Demotic
+p_dem_747_b	rv	187	P. Dem. 747 b	Demotic
+p_dem_747_c	rv	92914	P. Dem. 747 c 	Demotic
+p_dem_751_c	rv	92914	P. Dem. 751 c 	Demotic
+p_dem_797_a	rv	92914	P. Dem. 797 a	Demotic
+p_dem_747_d	rv	92935	P. Dem. 747 d 	Demotic
+p_dem_797_g	rv	92935	P. Dem. 797 g 	Demotic
+p_dem_797_h	rv	92935	P. Dem. 797 h	Demotic
+p_dem_748_d	rv	93058	P. Dem. 748 d 	Demotic
+p_dem_748_e	rv	93058	P. Dem. 748 e	Demotic
+p_dem_748_f	rv	93038	P. Dem. 748 f	Demotic
+p_dem_748_h	rv	93039	P. Dem. 748 h 	Demotic
+p_dem_758_d	rv	93039	P. Dem. 758 d	Demotic
+p_dem_749_d	rv	299	P. Dem. 749 d	Demotic
+p_dem_749_e	rv	92915	P. Dem. 749 e 	Demotic
+p_dem_754_b	rv	92915	P. Dem. 754 b	Demotic
+p_dem_750_a	rv	224	P. Dem. 750 a	Demotic
+p_dem_752	rv	170	P. Dem. 752	Demotic
+p_dem_753_b	rv	177	P. Dem. 753 b	Demotic
+p_dem_753_c	rv	93062	P. Dem. 753 c	Demotic
+p_dem_754_c	rv	297	P. Dem. 754 c	Demotic
+p_dem_754_e	rv	196	P. Dem. 754 e	Demotic
+p_dem_755_b	rv	92944	P. Dem. 755 b	Demotic
+p_dem_755_c	rv	92945	P. Dem. 755 c	Demotic
+p_dem_755_d	rv	92947	P. Dem. 755 d	Demotic
+p_dem_756_c	rv	92916	P. Dem. 756 c 	Demotic
+p_dem_761_a	rv	92916	P. Dem. 761 a	Demotic
+p_dem_757_b	rv	92917	P. Dem. 757 b 	Demotic
+p_dem_757_f	rv	92917	P. Dem. 757 f	Demotic
+p_dem_757_g	rv	92918	P. Dem. 757 g	Demotic
+p_dem_762	rv	241	P. Dem. 762 	Demotic
+p_dem_770_a	rv	241	P. Dem. 770 a 	Demotic
+p_dem_773	rv	241	P. Dem. 773 	Demotic
+p_dem_774	rv	241	P. Dem. 774	Demotic
+p_dem_763	rv	92731	P. Dem. 763	Demotic
+p_dem_763_e	rv	93040	P. Dem. 763 e 	Demotic
+p_dem_775	rv	93040	P. Dem. 775	Demotic
+p_dem_765_c	rv	92919	P. Dem. 765 c	Demotic
+p_dem_766	rv	92928	P. Dem. 766	Demotic
+p_dem_767_e	rv	92937	P. Dem. 767 e 	Demotic
+p_dem_767_f	rv	92937	P. Dem. 767 f 	Demotic
+p_dem_776_c	rv	92937	P. Dem. 776 c	Demotic
+p_dem_767_g	rv	178	P. Dem. 767 g	Demotic
+p_dem_767_h	rv	93041	P. Dem. 767 h	Demotic
+p_dem_769	rv	92948	P. Dem. 769	Demotic
+p_dem_770_b	rv	176	P. Dem. 770 b (30) 	Demotic
+p_dem_770_c	rv	168	P. Dem. 770 c	Demotic
+p_dem_771	rv	46891	P. Dem. 771	Demotic
+p_dem_772	rv	92953	P. Dem. 772	Demotic
+p_dem_776_d	rv	171	P. Dem. 776 d	Demotic
+p_dem_776_e	rv	92929	P. Dem. 776 e	Demotic
+p_dem_776_f	rv	93042	P. Dem. 776 f 	Demotic
+p_dem_776_g	rv	93042	P. Dem. 776 g 	Demotic
+p_dem_776_h	rv	93042	P. Dem. 776 h	Demotic
+p_dem_777	rv	93043	P. Dem. 777	Demotic
+p_dem_778_a	rv	192	P. Dem. 778 a 	Demotic
+p_dem_778_c	rv	92938	P. Dem. 778 c	Demotic
+p_dem_779_a	rv	285	P. Dem. 779 a	Demotic
+p_dem_779_c	rv	93063	P. Dem. 779 c	Demotic
+p_dem_779_d	rv	92939	P. Dem. 779 d	Demotic
+p_dem_781_b	rv	201	P. Dem. 781 b	Demotic
+p_dem_781_c	rv	188	P. Dem. 781 c	Demotic
+p_dem_782_a	rv	92930	P. Dem. 782 a	Demotic
+p_dem_782_b	rv	191	P. Dem. 782 b	Demotic
+p_dem_782_c	rv	92931	P. Dem. 782 c	Demotic
+p_dem_782_d	rv	93071	P. Dem. 782 d	Demotic
+p_dem_782_e	rv	93044	P. Dem. 782 e	Demotic
+p_dem_784	rv	93045	P. Dem. 784	Demotic
+p_dem_785	rv	55961	P. Dem. 785	Demotic
+p_dem_786	rv	46884	P. Dem. 786	Demotic
+p_dem_789	rv	92957	P. Dem. 789	Demotic
+p_dem_790	rv	185	P. Dem. 790	Demotic
+p_dem_791	rv	46885	P. Dem. 791	Demotic
+p_dem_792	rv	92936	P. Dem. 792	Demotic
+p_dem_794	rv	93049	P. Dem. 794	Demotic
+p_dem_796	rv	93050	P. Dem. 796	Demotic
+p_dem_797_b	rv	92932	P. Dem. 797 b	Demotic
+p_dem_797_f	rv	92958	P. Dem. 797 f	Demotic
+p_g_1	rv	36855	P. G 1 [old] 	Greek
+p_g_2	rv	36855	P. G 2 [old] 	Greek
+p_g_3	rv	36855	P. G 3 [old] 	Greek
+p_g_4	rv	36855	P. G 4 [old] 	Greek
+p_g_5	rv	36855	P. G 5 [old]	Greek
+p_g_1013	rv	59242	P. G 1013 	Greek
+p_g_1016	rv	67629	P. G 1016	Greek
+p_g_1017	rv	21117	P. G 1017	Greek
+p_g_1020_a	rv	61929	P. G 1020 a 	Greek
+p_g_608	rv	61929	P. G 608	Greek
+p_g_1026	rv	703274	P. G 1026	Greek
+p_g_1027	rv	489713	P. G 1027	Greek
+p_g_1032	rv	21098	P. G 1032	Greek
+p_g_104	rv	17641	P. G 104 	Greek
+p_g_21	rv	17641	P. G 21 	Greek
+p_g_344	rv	17641	P. G 344 	Greek
+p_g_99	rv	17641	P. G 99	Greek
+p_g_1058	rv	64869	P. G 1058	Greek
+p_g_1064	rv	21113	P. G 1064	Greek
+p_g_1069	rv	36176	P. G 1069	Greek
+p_g_107	rv	19331	P. G 107	Greek
+p_g_108	rv	11480	P. G 108	Greek
+p_g_1083	rv	33587	P. G 1083	Greek
+p_g_1090	rv	41529	P. G 1090	Greek
+p_g_1091	rv	78358	P. G 1091	Greek
+p_g_1094	rv	78357	P. G 1094	Greek
+p_g_11	rv	33129	P. G 11	Greek
+p_g_1100	rv	62930	P. G 1100 	Greek
+p_g_1101	rv	64870	P. G 1101	Greek
+p_g_1103_a	rv	65702	P. G 1103 a	Greek
+p_g_1103_b-c	rv	65705	P. G 1103 b-c 	Greek
+p_g_1129	rv	65705	P. G 1129 	Greek
+p_g_1169	rv	65705	P. G 1169 	Greek
+p_g_413_a-b	rv	65705	P. G 413 a-b	Greek
+p_g_1105	rv	41531	P. G 1105	Greek
+p_g_1106	rv	43310	P. G 1106	Greek
+p_g_1108	rv	65703	P. G 1108 	Greek
+p_g_1109	rv	65703	P. G 1109	Greek
+p_g_1119_a-b	r	65701	P. G 1119 a-b Ro	Greek
+p_g_1119_a-b	v	65704	P. G 1119 a-b Vo	Greek
+p_g_1120_a	rv	59923	P. G 1120 a	Greek
+p_g_1121	rv	5957	P. G 1121	Greek
+p_g_1131	rv	59032	P. G 1131	Greek
+p_g_1132	r	65706	P. G 1132 Ro	Greek
+p_g_1132	v	92821	P. G 1132 Vo	Greek
+p_g_1191	rv	2656	P. G 1191	Greek
+p_g_12	rv	8141	P. G 12	Greek
+p_g_1207	rv	21118	P. G 1207	Greek
+p_g_1209	rv	33586	P. G 1209	Greek
+p_g_1218_a	rv	41532	P. G 1218 a	Greek
+p_g_124_b	rv	11469	P. G 124 b	Greek
+p_g_1260	rv	61237	P. G 1260 	Greek
+p_g_1261	rv	61237	P. G 1261 	Greek
+p_g_1262	rv	61236	P. G 1262 - 1268 	Greek
+p_g_1263        rv      61236   P. G 1262 - 1268        Greek
+p_g_1264        rv      61236   P. G 1262 - 1268        Greek
+p_g_1265        rv      61236   P. G 1262 - 1268        Greek
+p_g_1266        rv      61236   P. G 1262 - 1268        Greek
+p_g_1267        rv      61236   P. G 1262 - 1268        Greek
+p_g_1268        rv      61236   P. G 1262 - 1268        Greek
+p_g_1269	rv	62663	P. G 1269	Greek
+p_g_1271	rv	64961	P. G 1271	Greek
+p_g_1275	rv	66099	P. G 1275 	Greek
+p_g_2169	rv	66099	P. G 2169	Greek
+p_g_1277	rv	397894	P. G 1277	Greek
+p_g_1278	rv	77	P. G 1278 	Greek
+p_g_1279	rv	462	P. G 1279	Greek
+p_g_1280	rv	253	P. G 1280 	Greek
+p_g_1281	r	4204	P. G 1281 Ro	Greek
+p_g_1281	v	4133	P. G 1281 Vo	Greek
+p_g_1282	rv	41516	P. G 1282	Greek
+p_g_1283	rv	229	P. G 1283 	Greek
+p_g_1300	rv	229	P. G 1300 	Greek
+p_g_1284	rv	80102	P. G 1284	Greek
+p_g_1287	rv	303	P. G 1287	Greek
+p_g_1288	rv	247	P. G 1288 	Greek
+p_g_1289	r	46004	P. G 1289 Ro	Greek
+p_g_1289	v	464	P. G 1289 Vo	Greek
+p_g_1291	rv	291	P. G 1291	Greek
+p_g_1298	rv	19338	P. G 1298 [old]	Greek
+p_g_1301	rv	286	P. G 1301 	Greek
+p_g_1302	rv	219	P. G 1302 	Greek
+p_g_1303	rv	78356	P. G 1303	Greek
+p_g_1304	rv	264	P. G 1304 	Greek
+p_g_131_a	rv	17074	P. G 131 a	Greek
+p_g_1310	rv	463	P. G 1310	Greek
+p_g_1312	r	92793	P. G 1312 Ro	Greek
+p_g_1312	v	78315	P. G 1312 Vo	Greek
+p_g_1316	rv	44107	P. G 1316	Greek
+p_g_1320	rv	641	P. G 1320	Greek
+p_g_1329	rv	36182	P. G 1329	Greek
+p_g_1331	rv	19327	P. G 1331	Greek
+p_g_1353	rv	33588	P. G 1353	Greek
+p_g_1354	rv	61766	P. G 1354	Greek
+p_g_1355	rv	33812	P. G 1355	Greek
+p_g_1357	rv	61741	P. G 1357	Greek
+p_g_1359	rv	64300	P. G 1359	Greek
+p_g_1362	rv	62264	P. G 1362	Greek
+p_g_1367	rv	65819	P. G 1367 [old]	Greek
+p_g_1367	rv	62114	P. G 1367 	Greek
+p_g_2259	rv	62114	P. G 2259	Greek
+p_g_1385	rv	59901	P. G 1385	Greek
+p_g_1386	rv	69044	P. G 1386	Greek
+p_g_1387	rv	219311	P. G 1387	Greek
+p_g_1389	rv	489712	P. G 1389	Greek
+p_g_1396	rv	28722	P. G 1396	Greek
+p_g_14	r	44507	P. G 14 Ro 	Greek
+p_g_15	r	44507	P. G 15 Ro	Greek
+p_g_14	v	44508	P. G 14 Vo	Greek
+p_g_1402	rv	35783	P. G 1402	Greek
+p_g_1408	rv	68756	P. G 1408	Greek
+p_g_141	rv	38835	P. G 141 [old]	Greek
+p_g_1412	rv	68979	P. G 1412	Greek
+p_g_1413	rv	44707	P. G 1413	Greek
+p_g_1427	rv	35413	P. G 1427	Greek
+p_g_1448	rv	31482	P. G 1448	Greek
+p_g_1450	rv	59047	P. G 1450 	Greek
+p_g_321	rv	59047	P. G 321	Greek
+p_g_146	rv	19319	P. G 146	Greek
+p_g_1462	rv	41546	P. G 1462	Greek
+p_g_1467	rv	68991	P. G 1467	Greek
+p_g_147	rv	115560	P. G 147	Greek
+p_g_15	v	43109	P. G 15 Vo	Greek
+p_g_1504	rv	79086	P. G 1504	Greek
+p_g_1509	rv	21459	P. G 1509	Greek
+p_g_154	rv	33128	P. G 154	Greek
+p_g_1543	rv	33466	P. G 1543	Greek
+p_g_157	rv	15147	P. G 157	Greek
+p_g_159	rv	21090	P. G 159	Greek
+p_g_161	rv	17052	P. G 161	Greek
+p_g_1616	rv	69048	P. G 1616	Greek
+p_g_1624	rv	35410	P. G 1624	Greek
+p_g_163	rv	21115	P. G 163	Greek
+p_g_1632	rv	21456	P. G 1632	Greek
+p_g_164	rv	115559	P. G 164 	Greek
+p_g_468	rv	115559	P. G 468	Greek
+p_g_1648	rv	44706	P. G 1648	Greek
+p_g_1651	rv	381319	P. G 1651	Greek
+p_g_1659	rv	121895	P. G 1659	Greek
+p_g_1666	rv	17643	P. G 1666	Greek
+p_g_1669	rv	23890	P. G 1669	Greek
+p_g_1671_a	rv	702522	P. G 1671 [a]	Greek
+p_g_1671_b	rv	702523	P. G 1671 [b]	Greek
+p_g_168	r	17029	P. G 168 Ro	Greek
+p_g_168	v	17087	P. G 168 Vo	Greek
+p_g_1696	rv	11471	P. G 1696	Greek
+p_g_1699	rv	35411	P. G 1699	Greek
+p_g_17	rv	27863	P. G 17 [old]	Greek
+p_g_17_b	rv	17048	P. G 17 b	Greek
+p_g_1700	rv	31107	P. G 1700	Greek
+p_g_1701_a-b	rv	64301	P. G 1701 a-b	Greek
+p_g_1702	rv	101308	P. G 1702	Greek
+p_g_1703	rv	101309	P. G 1703	Greek
+p_g_1705	rv	5776	P. G 1705	Greek
+p_g_1706	rv	19320	P. G 1706	Greek
+p_g_1707	rv	21664	P. G 1707	Greek
+p_g_1708	rv	27859	P. G 1708	Greek
+p_g_1709	rv	31141	P. G 1709	Greek
+p_g_1710	rv	15146	P. G 1710	Greek
+p_g_1711	rv	19321	P. G 1711	Greek
+p_g_1716	rv	63490	P. G 1716	Greek
+p_g_1718	rv	31109	P. G 1718	Greek
+p_g_1729	rv	41807	P. G 1729 col. 1	Greek
+p_g_1729	rv	97065	P. G 1729 col. 2	Greek
+p_g_173	rv	78043	P. G 173	Greek
+p_g_17306	rv	33622	P. G 17306 [old]	Greek
+p_g_1732	rv	38163	P. G 1732	Greek
+p_g_1737	rv	59075	P. G 1737	Greek
+p_g_174	rv	21109	P. G 174 	Greek
+p_g_1960	rv	21109	P. G 1960	Greek
+p_g_1740	r	63107	P. G 1740 Ro	Greek
+p_g_1740	v	63106	P. G 1740 Vo	Greek
+p_g_1744	rv	69741	P. G 1744 l. 1-11	Greek
+p_g_1744	rv	59818	P. G 1744 l. 12-22	Greek
+p_g_1749	rv	33465	P. G 1749	Greek
+p_g_1752	rv	133454	P. G 1752	Greek
+p_g_1755	rv	31479	P. G 1755	Greek
+p_g_1756	r	14254	P. G 1756 Ro	Greek
+p_g_1756	v	31108	P. G 1756 Vo	Greek
+p_g_1768	rv	11473	P. G 1768 col. 1	Greek
+p_g_1768	rv	11474	P. G 1768 col. 2	Greek
+p_g_1778	rv	44119	P. G 1778	Greek
+p_g_1779	rv	31110	P. G 1779	Greek
+p_g_1791	rv	35412	P. G 1791	Greek
+p_g_1796	rv	2499	P. G 1796	Greek
+p_g_180	rv	17642	P. G 180 	Greek
+p_g_2206	rv	17642	P. G 2206	Greek
+p_g_1800	rv	50667	P. G 1800 	Greek
+p_g_1943	rv	50667	P. G 1943	Greek
+p_g_1801	rv	36179	P. G 1801	Greek
+p_g_1818	r	25300	P. G 1818 Ro	Greek
+p_g_1818	v	27278	P. G 1818 Vo	Greek
+p_g_1828	rv	21661	P. G 1828	Greek
+p_g_1832	rv	1848	P. G 1832	Greek
+p_g_1834	rv	1849	P. G 1834	Greek
+p_g_1837	rv	21120	P. G 1837 	Greek
+p_g_185	rv	19329	P. G 185	Greek
+p_g_1881	rv	1864	P. G 1881	Greek
+p_g_1891	r	65707	P. G 1891 Ro	Greek
+p_g_1891	v	1904	P. G 1891 Vo	Greek
+p_g_1892	rv	32206	P. G 1892	Greek
+p_g_1893	rv	63108	P. G 1893	Greek
+p_g_1895	rv	36183	P. G 1895	Greek
+p_g_1896	rv	97188	P. G 1896	Greek
+p_g_1897	rv	102072	P. G 1897	Greek
+p_g_1898	rv	23891	P. G 1898	Greek
+p_g_1919	rv	19061	P. G 1919	Greek
+p_g_192_c	rv	19317	P. G 192 c col. 1	Greek
+p_g_192_c	rv	19318	P. G 192 c col. 2	Greek
+p_g_1930	rv	38162	P. G 1930	Greek
+p_g_194	rv	23160	P. G 194	Greek
+p_g_1964	rv	37271	P. G 1964	Greek
+p_g_1966	rv	22281	P. G 1966	Greek
+p_g_1968	rv	60665	P. G 1968 	Greek
+p_496	rv	60665	P. 496	Greek
+p_g_1969	rv	60814	P. G 1969	Greek
+p_g_1970	rv	61455	P. G 1970	Greek
+p_g_1971	rv	60813	P. G 1971	Greek
+p_g_1976	rv	64065	P. G 1976	Greek
+p_g_1977	rv	63491	P. G 1977	Greek
+p_g_1984	rv	21105	P. G 1984 	Greek
+p_g_654	rv	21105	P. G 654	Greek
+p_g_1987	rv	14252	P. G 1987	Greek
+p_g_1991	rv	21103	P. G 1991	Greek
+p_g_1992	rv	15149	P. G 1992	Greek
+p_g_1998	rv	21104	P. G 1998	Greek
+p_g_2	rv	65500	P. G 2	Greek
+p_g_200	rv	61467	P. G 200	Greek
+p_g_200_a	rv	17045	P. G 200 a 	Greek
+p_g_201_a	rv	64066	P. G 201 a	Greek
+p_g_2017	rv	381918	P. G 2017	Greek
+p_g_2022	rv	381911	P. G 2022 	Greek
+p_g_996	rv	381911	P. G 996	Greek
+p_g_2032	rv	25449	P. G 2032	Greek
+p_g_204	rv	8173	P. G 204	Greek
+p_g_2048	rv	63492	P. G 2048	Greek
+p_g_2070	rv	19062	P. G 2070	Greek
+p_g_2071	rv	102086	P. G 2071	Greek
+p_g_2073	rv	5136	P. G 2073	Greek
+p_g_2076	rv	11468	P. G 2076	Greek
+p_g_2077	rv	15148	P. G 2077	Greek
+p_g_208_a	rv	27857	P. G 208 a	Greek
+p_g_2083	rv	381908	P. G 2083	Greek
+p_g_2088	rv	5137	P. G 2088	Greek
+p_g_2089	rv	6229	P. G 2089	Greek
+p_g_209	rv	43228	P. G 209	Greek
+p_g_2091	rv	14253	P. G 2091	Greek
+p_g_210	rv	6228	P. G 210	Greek
+p_g_212_b	r	17088	P. G 212 b Ro	Greek
+p_g_212_b	v	17089	P. G 212 b Vo	Greek
+p_g_2127	rv	102071	P. G 2127	Greek
+p_g_213	r	19322	P. G 213 Ro	Greek
+p_g_213	v	19324	P. G 213 Vo	Greek
+p_g_2136	rv	66070	P. G 2136	Greek
+p_g_214	rv	19325	P. G 214	Greek
+p_g_2140	rv	33558	P. G 2140	Greek
+p_g_2141	rv	33559	P. G 2141	Greek
+p_g_2142	rv	33557	P. G 2142	Greek
+p_g_2143	rv	21449	P. G 2143	Greek
+p_g_2144	rv	33561	P. G 2144	Greek
+p_g_2145	rv	33564	P. G 2145	Greek
+p_g_2146	rv	33565	P. G 2146	Greek
+p_g_2147	rv	33568	P. G 2147	Greek
+p_g_2148	rv	33571	P. G 2148	Greek
+p_g_2149	rv	21454	P. G 2149	Greek
+p_g_2150	rv	33580	P. G 2150	Greek
+p_g_2151	rv	45289	P. G 2151	Greek
+p_g_2152	rv	33582	P. G 2152 	Greek
+p_g_2156	rv	33579	P. G 2156	Greek
+p_g_217	rv	80103	P. G 217	Greek
+p_g_2170	r	78288	P. G 2170 Ro	Greek
+p_g_2170	v	64067	P. G 2170 Vo	Greek
+p_g_2171	rv	3073	P. G 2171	Greek
+p_g_2172	rv	3079	P. G 2172	Greek
+p_g_2173	rv	3066	P. G 2173	Greek
+p_g_2174	rv	3070	P. G 2174	Greek
+p_g_2175	rv	3081	P. G 2175	Greek
+p_g_2176	rv	3076	P. G 2176	Greek
+p_g_2177	rv	3063	P. G 2177	Greek
+p_g_2178	rv	3082	P. G 2178	Greek
+p_g_218	rv	19323	P. G 218	Greek
+p_g_2180	rv	3083	P. G 2180	Greek
+p_g_2181	rv	3061	P. G 2181	Greek
+p_g_2182	rv	3068	P. G 2182	Greek
+p_g_2183	rv	3067	P. G 2183	Greek
+p_g_2184	rv	3071	P. G 2184	Greek
+p_g_2185	rv	3075	P. G 2185	Greek
+p_g_2186	rv	3060	P. G 2186	Greek
+p_g_2187	rv	3065	P. G 2187	Greek
+p_g_2188	rv	3074	P. G 2188	Greek
+p_g_2189	rv	3069	P. G 2189	Greek
+p_g_219	rv	61493	P. G 219 	Greek
+p_g_239_h	rv	61493	P. G 239 h	Greek
+p_g_2191	rv	3080	P. G 2191	Greek
+p_g_2192	r	81094	P. G 2192 Ro	Greek
+p_g_2192	v	3059	P. G 2192 Vo	Greek
+p_g_2193	rv	3078	P. G 2193	Greek
+p_g_2194	rv	3072	P. G 2194	Greek
+p_g_2195	rv	3064	P. G 2195	Greek
+p_g_2196	rv	3062	P. G 2196	Greek
+p_g_2197	rv	3077	P. G 2197 	Greek
+p_g_22	rv	17109	P. G 22 col. 1	Greek
+p_g_22	rv	17110	P. G 22 col. 2	Greek
+p_g_22	rv	17111	P. G 22 col. 3	Greek
+p_g_221	rv	8140	P. G 221	Greek
+p_g_223_a	rv	17116	P. G 223 a	Greek
+p_g_223_c	rv	11470	P. G 223 c	Greek
+p_g_2247	rv	28719	P. G 2247	Greek
+p_g_2249	rv	21097	P. G 2249	Greek
+p_g_225	rv	115835	P. G 225	Greek
+p_g_2252	rv	381916	P. G 2252	Greek
+p_g_2258	rv	62159	P. G 2258 	Greek
+p_g_2748	rv	62159	P. G 2748	Greek
+p_g_226	rv	41502	P. G 226	Greek
+p_g_2260	rv	62115	P. G 2260	Greek
+p_g_23	rv	133	P. G 23	Greek
+p_g_23	rv	19336	P. G 23 col. 1 [old]	Greek
+p_g_23	rv	19337	P. G 23 col. 2 [old]	Greek
+p_g_230	rv	11478	P. G 230	Greek
+p_g_2305	rv	115562	P. G 2305	Greek
+p_g_231	r	21100	P. G 231 Ro	Greek
+p_g_231	v	92795	P. G 231 Vo	Greek
+p_g_232_d	rv	27858	P. G 232 d	Greek
+p_g_233	rv	17075	P. G 233	Greek
+p_g_235_a	rv	702524	P. G 235 a	Greek
+p_g_238	rv	97193	P. G 238 	Greek
+p_g_517	rv	97193	P. G 517	Greek
+p_g_239_a	rv	68990	P. G 239 a	Greek
+p_g_239_d	rv	66978	P. G 239 d	Greek
+p_g_24	rv	21114	P. G 24	Greek
+p_g_24	rv	35227	P. G 24 [old]	Greek
+p_g_243	rv	41101	P. G 243	Greek
+p_g_25_a	rv	19314	P. G 25 a	Greek
+p_g_25	r	27864	P. G 25 Ro	Greek
+p_g_25	v	27865	P. G 25 Vo	Greek
+p_g_257	rv	17093	P. G 257	Greek
+p_g_26	rv	27860	P. G 26	Greek
+p_g_27	rv	80115	P. G 27	Greek
+p_g_27	rv	33130	P. G 27 [old]	Greek
+p_g_2735	rv	388510	P. G 2735	Greek
+p_g_28	rv	62647	P. G 28 	Greek
+p_gr_91	rv	62647	P. gr. 91	Greek
+p_g_286	r	21099	P. G 286 Ro	Greek
+p_g_286	v	92794	P. G 286 Vo	Greek
+p_g_2926	rv	97194	P. G 2926 	Greek
+p_g_530	rv	97194	P. G 530	Greek
+p_g_296	rv	19328	P. G 296	Greek
+p_g_299	rv	21116	P. G 299	Greek
+p_g_3	rv	5830	P. G 3	Greek
+p_g_30	rv	35228	P. G 30	Greek
+p_g_3069	r	59508	P. G 3069 Ro	Greek
+p_g_3069	v	100140	P. G 3069 Vo	Greek
+p_g_3070	rv	60073	P. G 3070	Greek
+p_g_3073	rv	61331	P. G 3073	Greek
+p_g_3074	rv	47364	P. G 3074	Greek
+p_g_3078	rv	21092	P. G 3078	Greek
+p_g_3091	rv	11467	P. G 3091	Greek
+p_g_310_a	rv	65607	P. G 310 a	Greek
+p_g_310	r	61298	P. G 310 Ro	Greek
+p_g_310	v	65606	P. G 310 Vo	Greek
+p_g_311	rv	38388	P. G 311	Greek
+p_g_313	rv	644	P. G 313	Greek
+p_g_314	rv	642	P. G 314	Greek
+p_g_315	rv	643	P. G 315	Greek
+p_g_316	r	21662	P. G 316 Ro	Greek
+p_g_316	v	21663	P. G 316 Vo	Greek
+p_g_32	rv	43672	P. G 32	Greek
+p_g_32_a	rv	19315	P. G 32 [a] [old]	Greek
+p_g_32_b	rv	19316	P. G 32 [b] [old]	Greek
+p_g_33	rv	80106	P. G 33	Greek
+p_g_33	rv	35229	P. G 33 [old]	Greek
+p_g_34	rv	64428	P. G 34	Greek
+p_g_34	rv	80105	P. G 34 [old]	Greek
+p_g_342	rv	97191	P. G 342	Greek
+p_g_35	rv	34180	P. G 35	Greek
+p_g_368	rv	65184	P. G 368	Greek
+p_g_37	rv	31143	P. G 37 [old]	Greek
+p_g_373	r	17091	P. G 373 Ro	Greek
+p_g_373	v	17092	P. G 373 Vo	Greek
+p_g_376	v	79327	P. G 376 Vo	Greek
+p_g_378_b	rv	27180	P. G 378 b	Greek
+p_g_38	rv	110227	P. G 38	Greek
+p_g_3826_b	rv	47294	P. G 3826 b 	Greek
+p_g_3894	rv	47294	P. G 3894 	Greek
+p_g_3895	rv	47294	P. G 3895 	Greek
+p_g_3896	rv	47294	P. G 3896 	Greek
+p_g_3898	rv	47294	P. G 3898 	Greek
+p_g_3899	rv	47294	P. G 3899	Greek
+p_g_3850	rv	35785	P. G 3850	Greek
+p_g_389	r	79325	P. G 389 Ro	Greek
+p_g_389	v	79326	P. G 389 Vo	Greek
+p_g_3897	rv	47290	P. G 3897	Greek
+p_g_3901	rv	47295	P. G 3901 	Greek
+p_g_3910	rv	47295	P. G 3910 	Greek
+p_g_3921	rv	47295	P. G 3921 	Greek
+p_g_3924	rv	47295	P. G 3924	Greek
+p_g_3902	rv	47296	P. G 3902 	Greek
+p_g_3907	rv	47296	P. G 3907 	Greek
+p_g_3908	rv	47296	P. G 3908 	Greek
+p_g_3914	rv	47296	P. G 3914	Greek
+p_g_3903	r	47298	P. G 3903 Ro 	Greek
+p_g_3904	r	47298	P. G 3904 Ro 	Greek
+p_g_3905_b	rv	47298	P. G 3905 b 	Greek
+p_g_3923	rv	47298	P. G 3923 	Greek
+p_g_3928_a	rv	47298	P. G 3928 a	Greek
+p_g_3903	v	47299	P. G 3903 Vo 	Greek
+p_g_3904	v	47299	P. G 3904 Vo	Greek
+p_g_3905_a	rv	47292	P. G 3905 a 	Greek
+p_g_3909	rv	47292	P. G 3909 	Greek
+p_g_3918	rv	47292	P. G 3918 	Greek
+p_g_3919	rv	47292	P. G 3919 	Greek
+p_g_3920	rv	47292	P. G 3920 	Greek
+p_g_3922	rv	47292	P. G 3922 	Greek
+p_g_3926_a	rv	47292	P. G 3926 a 	Greek
+p_g_3927	rv	47292	P. G 3927	Greek
+p_g_3906	rv	47297	P. G 3906	Greek
+p_g_3911	rv	47291	P. G 3911 	Greek
+p_g_3912	rv	47291	P. G 3912	Greek
+p_g_3932	rv	47293	P. G 3932	Greek
+p_g_4	rv	19335	P. G 4	Greek
+p_g_40	rv	17115	P. G 40	Greek
+p_g_400	rv	43995	P. G 400	Greek
+p_g_4001	rv	78316	P. G 4001	Greek
+p_g_401_a-k	rv	65755	P. G 401 a-k 	Greek
+p_g_4011	rv	61172	P. G 4011	Greek
+p_g_4013	rv	78314	P. G 4013	Greek
+p_g_4047	r	5134	P. G 4047 Ro	Greek
+p_g_4047	v	2815	P. G 4047 Vo	Greek
+p_g_406	r	61252	P. G 406 Ro 	Greek
+p_g_406	v	61587	P. G 406 Vo 	Greek
+p_g_407	rv	21108	P. G 407	Greek
+p_g_4083	rv	78313	P. G 4083	Greek
+p_g_409_c	r	65711	P. G 409 c Ro	Greek
+p_g_409_c	v	65710	P. G 409 c Vo	Greek
+p_g_411	rv	31140	P. G 411	Greek
+p_g_4126	rv	25862	P. G 4126	Greek
+p_g_416	v	59735	P. G 416 Vo	Greek
+p_g_42	rv	17133	P. G 42	Greek
+p_g_420_a-b	rv	59035	P. G 420 a-b	Greek
+p_g_434	rv	65709	P. G 434	Greek
+p_g_435	r	63015	P. G 435 Ro	Greek
+p_g_435	v	65779	P. G 435 Vo	Greek
+p_g_436	rv	8761	P. G 436	Greek
+p_g_438	rv	41530	P. G 438	Greek
+p_g_44	rv	79211	P. G 44	Greek
+p_g_442_a	rv	5703	P. G 442 a	Greek
+p_g_443_a	rv	78317	P. G 443 a	Greek
+p_g_4756	rv	78705	P. G 4756	Greek
+p_g_4774	rv	78704	P. G 4774 	Greek
+p_g_4784	rv	78704	P. G 4784	Greek
+p_g_48_a	rv	25455	P. G 48 a	Greek
+p_g_48_b	rv	17105	P. G 48 b	Greek
+p_g_4868	rv	44733	P. G 4868	Greek
+p_g_4876	rv	44717	P. G 4876	Greek
+p_g_4877	rv	44618	P. G 4877	Greek
+p_g_4878	rv	44720	P. G 4878	Greek
+p_g_4925	rv	44722	P. G 4925	Greek
+p_g_4926	rv	44731	P. G 4926	Greek
+p_g_4927	rv	44617	P. G 4927	Greek
+p_g_4928	rv	44626	P. G 4928	Greek
+p_g_4930	rv	44729	P. G 4930	Greek
+p_g_4931	rv	44620	P. G 4931	Greek
+p_g_4934	rv	44627	P. G 4934	Greek
+p_g_4946	rv	140143	P. G 4946 - 4948 	Greek
+p_g_4947 rv      140143  P. G 4946 - 4948        Greek
+p_g_4948 rv      140143  P. G 4946 - 4948        Greek
+p_g_4950 rv      140143  P. G 4950 - 4961        Greek
+p_g_4951 rv      140143  P. G 4950 - 4961        Greek
+p_g_4952 rv      140143  P. G 4950 - 4961        Greek
+p_g_4953 rv      140143  P. G 4950 - 4961        Greek
+p_g_4954 rv      140143  P. G 4950 - 4961        Greek
+p_g_4955 rv      140143  P. G 4950 - 4961        Greek
+p_g_4956 rv      140143  P. G 4950 - 4961        Greek
+p_g_4957 rv      140143  P. G 4950 - 4961        Greek
+p_g_4958 rv      140143  P. G 4950 - 4961        Greek
+p_g_4959 rv      140143  P. G 4950 - 4961        Greek
+p_g_4960 rv      140143  P. G 4950 - 4961        Greek
+p_g_4961 rv      140143  P. G 4950 - 4961        Greek
+p_g_5	rv	19333	P. G 5	Greek
+p_g_5004	rv	89277	P. G 5004	Greek
+p_g_5005	rv	89278	P. G 5005	Greek
+p_g_5006	rv	89279	P. G 5006	Greek
+p_g_5006_a	rv	89294	P. G 5006 a	Greek
+p_g_5007	rv	89280	P. G 5007	Greek
+p_g_5008	rv	89281	P. G 5008	Greek
+p_g_5009	rv	89282	P. G 5009	Greek
+p_g_5010	rv	89283	P. G 5010	Greek
+p_g_5011	rv	89284	P. G 5011	Greek
+p_g_5012	rv	89285	P. G 5012	Greek
+p_g_5013	rv	89286	P. G 5013	Greek
+p_g_5014	rv	89287	P. G 5014	Greek
+p_g_5015	rv	89288	P. G 5015	Greek
+p_g_5016_a	rv	89289	P. G 5016 a 	Greek
+p_g_5016_b	rv	89289	P. G 5016 b	Greek
+p_g_5017	r	128483	P. G 5017 Ro	Greek
+p_g_5017	v	128479	P. G 5017 Vo	Greek
+p_g_5018	rv	89290	P. G 5018	Greek
+p_g_5019	rv	89291	P. G 5019	Greek
+p_g_5021	rv	89292	P. G 5021	Greek
+p_g_5022	rv	89295	P. G 5022	Greek
+p_g_5030	rv	89293	P. G 5030	Greek
+p_g_5031	rv	89296	P. G 5031	Greek
+p_g_5048	rv	89298	P. G 5048	Greek
+p_g_5049	rv	89297	P. G 5049	Greek
+p_g_5071	rv	89299	P. G 5071	Greek
+p_g_5082	rv	89300	P. G 5082	Greek
+p_g_51	rv	62654	P. G 51	Greek
+p_g_5100	rv	44708	P. G 5100	Greek
+p_g_512	rv	14926	P. G 512	Greek
+p_g_5139	rv	36854	P. G 5139	Greek
+p_g_5140	r	44549	P. G 5140 Ro	Greek
+p_g_5140	v	44550	P. G 5140 Vo	Greek
+p_g_5141	rv	135935	P. G 5141	Greek
+p_g_5144	r	135622	P. G 5144 Ro	Greek
+p_g_5144	v	135623	P. G 5144 Vo	Greek
+p_g_5148	rv	68651	P. G 5148	Greek
+p_g_5150	rv	700730	P. G 5150	Greek
+p_g_5157	rv	381318	P. G 5157	Greek
+p_g_5166	rv	140548	P. G 5166	Greek
+p_g_5179	rv	143374	P. G 5179	Greek
+p_g_52	rv	17147	P. G 52	Greek
+p_g_524	rv	11476	P. G 524	Greek
+p_g_527	rv	31480	P. G 527	Greek
+p_g_535	rv	21668	P. G 535	Greek
+p_g_54	rv	65414	P. G 54	Greek
+p_g_550	rv	65417	P. G 550	Greek
+p_g_561	rv	65185	P. G 561	Greek
+p_g_565	rv	59048	P. G 565	Greek
+p_g_57	rv	38834	P. G 57 [old]	Greek
+p_g_576	rv	11479	P. G 576	Greek
+p_g_577	r	21110	P. G 577 Ro	Greek
+p_g_577	v	31481	P. G 577 Vo	Greek
+p_g_582_a	rv	28723	P. G 582 a	Greek
+p_g_586	rv	37272	P. G 586	Greek
+p_g_587	r	21666	P. G 587 Ro	Greek
+p_g_587	v	33619	P. G 587 Vo	Greek
+p_g_59	rv	78801	P. G 59	Greek
+p_g_6	rv	8736	P. G 6	Greek
+p_g_60_b	rv	17130	P. G 60 b	Greek
+p_g_600	rv	62141	P. G 600	Greek
+p_g_601	rv	80104	P. G 601	Greek
+p_g_607	rv	19332	P. G 607	Greek
+p_g_61	rv	92841	P. G 61	Greek
+p_g_613	r	92294	P. G 613 Ro col. 1	Greek
+p_g_613	r	21095	P. G 613 Ro col. 2	Greek
+p_g_613	r	21096	P. G 613 Ro col. 3	Greek
+p_g_613	v	28718	P. G 613 Vo	Greek
+p_g_616	rv	27861	P. G 616 	Greek
+p_g_794	rv	27861	P. G 794	Greek
+p_g_618	rv	21106	P. G 618	Greek
+p_g_620	rv	21107	P. G 620	Greek
+p_g_621	rv	25456	P. G 621	Greek
+p_g_630_a	rv	27866	P. G 630 a	Greek
+p_g_630_b	rv	27867	P. G 630 b	Greek
+p_g_631	rv	64736	P. G 631	Greek
+p_g_639	rv	21112	P. G 639	Greek
+p_g_645	rv	61846	P. G 645	Greek
+p_g_65_a	rv	17086	P. G 65 a	Greek
+p_g_65_b	rv	17094	P. G 65 b	Greek
+p_g_652	r	21091	P. G 652 Ro	Greek
+p_g_652	v	131738	P. G 652 Vo	Greek
+p_g_670	rv	5831	P. G 670	Greek
+p_g_675	rv	60251	P. G 675	Greek
+p_g_678	rv	22276	P. G 678 	Greek
+p_41	rv	22276	P. 41	Greek
+p_g_679	rv	40984	P. G 679 	Greek
+p_g_824	rv	40984	P. G 824	Greek
+p_g_68	rv	19334	P. G 68	Greek
+p_g_680	rv	17639	P. G 680	Greek
+p_g_686	rv	381906	P. G 686	Greek
+p_g_687	rv	21111	P. G 687	Greek
+p_g_689	rv	21093	P. G 689	Greek
+p_g_69	rv	31142	P. G 69	Greek
+p_g_692	rv	381910	P. G 692	Greek
+p_g_699	rv	21101	P. G 699 col. 1	Greek
+p_g_699	rv	21102	P. G 699 col. 2	Greek
+p_g_7_a	rv	19339	P. G 7 [a] [old]	Greek
+p_g_7_b	rv	19340	P. G 7 [b] [old]	Greek
+p_g_70	rv	40983	P. G 70	Greek
+p_g_702	r	21457	P. G 702 Ro	Greek
+p_g_702	v	21458	P. G 702 Vo	Greek
+p_g_73	rv	79239	P. G 73	Greek
+p_g_732	rv	44177	P. G 732	Greek
+p_g_735	rv	381913	P. G 735	Greek
+p_g_743	rv	381907	P. G 743	Greek
+p_g_744	rv	28721	P. G 744	Greek
+p_g_748	rv	97734	P. G 748	Greek
+p_g_75_b	rv	17085	P. G 75 b	Greek
+p_g_759	r	381914	P. G 759 Ro	Greek
+p_g_759	v	381915	P. G 759 Vo	Greek
+p_g_761	rv	381917	P. G 761	Greek
+p_g_771	rv	21119	P. G 771	Greek
+p_g_8_a	rv	17027	P. G 8 I (a)	Greek
+p_g_8_b	rv	17022	P. G 8 I (b)	Greek
+p_g_8	rv	17028	P. G 8 II	Greek
+p_g_807	rv	68757	P. G 807	Greek
+p_g_81	rv	19330	P. G 81	Greek
+p_g_83	rv	17030	P. G 83	Greek
+p_g_838	rv	381909	P. G 838	Greek
+p_g_845	rv	63493	P. G 845	Greek
+p_g_852	rv	11472	P. G 852	Greek
+p_g_853	rv	78707	P. G 853	Greek
+p_g_863	rv	110226	P. G 863	Greek
+p_g_865	rv	11477	P. G 865	Greek
+p_g_87	rv	17107	P. G 87 col. 1	Greek
+p_g_87	rv	17108	P. G 87 col. 2 	Greek
+p_g_9	rv	27862	P. G 9	Greek
+p_g_900	rv	28976	P. G 900	Greek
+p_g_91	rv	28717	P. G 91	Greek
+p_g_918	rv	28720	P. G 918	Greek
+p_g_921	rv	23840	P. G 921	Greek
+p_g_923	rv	23841	P. G 923	Greek
+p_g_933	rv	35095	P. G 933	Greek
+p_g_935	rv	115561	P. G 935	Greek
+p_g_94	rv	11475	P. G 94	Greek
+p_g_945	rv	61955	P. G 945	Greek
+p_g_95	rv	35991	P. G 95	Greek
+p_g_961	rv	21094	P. G 961	Greek
+p_g_98	rv	23889	P. G 98	Greek
+p_g_995	rv	36184	P. G 995	Greek
+p_hebr_1	v	463695	P. Hebr. 1 Vo	Hebrew
+p_hebr_11	rv	463749	P. Hebr. 11 Ro & Vo	Hebrew
+p_hebr_13	rv	463759	P. Hebr. 13 Ro & Vo	Hebrew
+p_hebr_20	r	463705	P. Hebr. 20 Ro	Hebrew
+p_hebr_23	v	463697	P. Hebr. 23 Vo	Hebrew
+p_hebr_28	rv	463750	P. Hebr. 28 Ro & Vo	Hebrew
+p_hebr_29	v	463751	P. Hebr. 29 Vo	Hebrew
+p_hebr_3	rv	115067	P. Hebr. 3	Hebrew
+p_hebr_7	rv	115068	P. Hebr. 7	Hebrew
+p_hier_1	rv	57149	P. Hier. 1	Hieratic
+p_hier_2025	rv	57148	P. Hier. 2025	Hieratic
+p_hier_4_a-c	rv	57950	P. Hier. 4 a-c	Hieratic
+p_hier_567	rv	701199	P. Hier. 567	Hieratic
+p_kopt_12	r	102088	P. Kopt. / aeg. 12 Ro	Coptic
+p_kopt_12	v	111297	P. Kopt. / aeg. 12 Vo	Coptic
+p_kopt_13	rv	102089	P. Kopt. / aeg. 13	Coptic
+p_kopt_14	rv	102090	P. Kopt. / aeg. 14	Coptic
+p_kopt_137	rv	115832	P. Kopt. 137	Coptic
+p_kopt_162	rv	85445	P. Kopt. 162	Coptic
+p_kopt_184	rv	112398	P. Kopt. 184	Coptic
+p_kopt_198	rv	140539	P. Kopt. 198	Coptic
+p_kopt_202	rv	173853	P. Kopt. 202	Coptic
+p_kopt_206	rv	173852	P. Kopt. 206	Coptic
+p_kopt_211	rv	140555	P. Kopt. 211	Coptic
+p_kopt_233	rv	140970	P. Kopt. 233	Coptic
+p_kopt_234	rv	703101	P. Kopt. 234	Coptic
+p_kopt_235	rv	118261	P. Kopt. 235	Coptic
+p_kopt_251	rv	129917	P. Kopt. 251	Coptic
+p_kopt_252	rv	244005	P. Kopt. 252	Coptic
+p_kopt_253	rv	129924	P. Kopt. 253	Coptic
+p_kopt_254	rv	108506	P. Kopt. 254 	Coptic
+p_kopt_255	rv	129918	P. Kopt. 255 (668)	Coptic
+p_kopt_256	rv	243995	P. Kopt. 256	Coptic
+p_kopt_299	rv	243994	P. Kopt. 299	Coptic
+p_kopt_300	rv	107929	P. Kopt. 300 	Coptic
+p_kopt_301	rv	107929	P. Kopt. 301	Coptic
+p_kopt_308	r	118277	P. Kopt. 308 Ro	Coptic
+p_kopt_308	v	128352	P. Kopt. 308 Vo	Coptic
+p_kopt_343	rv	140971	P. Kopt. 343	Coptic
+p_kopt_345	rv	381912	P. Kopt. 345	Coptic
+p_kopt_426	rv	107809	P. Kopt. 426 	Coptic
+p_kopt_430	rv	129916	P. Kopt. 430	Coptic
+p_kopt_434	rv	699465	P. Kopt. 434	Coptic
+p_kopt_435	rv	244009	P. Kopt. 435	Coptic
+p_kopt_450	rv	108439	P. Kopt. 450	Coptic
+p_kopt_452	rv	108077	P. Kopt. 452	Coptic
+p_kopt_453	rv	129919	P. Kopt. 453	Coptic
+p_kopt_473	rv	102083	P. Kopt. 473	Coptic
+p_kopt_5	rv	108605	P. Kopt. 5	Coptic
+p_kopt_514	rv	102080	P. Kopt. 514	Coptic
+p_kopt_518	rv	99553	P. Kopt. 518	Coptic
+p_kopt_520	rv	102081	P. Kopt. 520	Coptic
+p_kopt_541	rv	244110	P. Kopt. 541	Coptic
+p_kopt_544_b	rv	98048	P. Kopt. 544 b	Coptic
+p_kopt_564_a	rv	98047	P. Kopt. 564 a	Coptic
+p_kopt_580	rv	102082	P. Kopt. 580	Coptic
+p_kopt_658	rv	102084	P. Kopt. 658	Coptic
+p_kopt_662	rv	108479	P. Kopt. 662	Coptic
+p_kopt_673	r	85291	P. Kopt. 673 Ro	Coptic
+p_kopt_678	rv	102077	P. Kopt. 678	Coptic
+p_kopt_679	rv	102079	P. Kopt. 679	Coptic
+p_kopt_680	rv	102078	P. Kopt. 680	Coptic
+p_kopt_681	rv	99609	P. Kopt. 681	Coptic
+p_kopt_682	rv	99576	P. Kopt. 682	Coptic
+p_kopt_683	rv	100000	P. Kopt. 683	Coptic
+p_kopt_684	rv	98064	P. Kopt. 684	Coptic
+p_kopt_685_palimsest_new	rv	102074	P. Kopt. 685 [palimsest new]	Coptic
+p_kopt_685_palimsest_old	rv	129732	P. Kopt. 685 [palimsest old]	Coptic
+p_kopt_687	rv	45290	P. Kopt. 687	Coptic
+p_kopt_98	rv	130871	P. Kopt. 98	Coptic
+p_lat_1	rv	109284	P. Lat. 1	Latin
+p_lat_10	rv	69989	P. Lat. 10	Latin
+p_lat_11	rv	69990	P. Lat. 11	Latin
+p_lat_12	rv	69991	P. Lat. 12	Latin
+p_lat_1334	rv	67357	P. Lat. 1334 (369/256)	Latin
+p_lat_2	rv	65039	P. Lat. 2	Latin
+p_lat_3	rv	67356	P. Lat. 3	Latin
+p_lat_4	rv	61413	P. Lat. 4	Latin
+p_lat_5	rv	63029	P. Lat. 5	Latin
+p_lat_6	rv	69985	P. Lat. 6	Latin
+p_lat_7	rv	69986	P. Lat. 7	Latin
+p_lat_8	rv	69987	P. Lat. 8	Latin
+p_lat_9	rv	69988	P. Lat. 9	Latin
